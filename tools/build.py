@@ -202,6 +202,8 @@ def build():
     selection = json.load(open(os.path.join(HERE, 'selection.json')))
     leads = json.load(open(os.path.join(HERE, 'leads.json'))) \
         if os.path.exists(os.path.join(HERE, 'leads.json')) else {}
+    coords = json.load(open(os.path.join(HERE, 'coords.json'))) \
+        if os.path.exists(os.path.join(HERE, 'coords.json')) else {}
     timeline = json.load(open(os.path.join(ROOT, 'data', 'timeline.json')))
     credits, covers = [], {}
 
@@ -302,7 +304,8 @@ def build():
             if len(images) < 4:
                 print(f'  !! {wid}: only {len(images)} pictures — dropped')
                 continue
-            works.append({**text, 'id': wid, 'images': images})
+            works.append({**text, 'id': wid, 'images': images,
+                          **({'geo': coords[wid]} if wid in coords else {})})
             covers.setdefault(hid, images[0]['thumb'])
 
         json.dump({'hall': hid, 'works': works},

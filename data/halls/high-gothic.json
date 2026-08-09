@@ -151,7 +151,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AChartres_-_Cath%C3%A9drale_Notre-Dame_de_Chartres_1193-1250_-_Ambulatory_North_of_the_Choir_-_View_SW_along_La_cl%C3%B4ture_du_ch%C5%93ur_%28Choir_Screen%29_40_groups%2C_200_statues%2C_beginning_16th_century%2C_Jehan_de_Beauce_-_Renaissance_II.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.4478,
+    "lng": 1.4878
+   }
   },
   {
    "name": "Reims Cathedral",
@@ -303,7 +307,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ARelief_ouest_du_pilier_nord_du_portail_occidental_de_la_cath%C3%A9drale_Notre-Dame_de_Reims.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 49.253889,
+    "lng": 4.034167
+   }
   },
   {
    "name": "Amiens Cathedral",
@@ -455,7 +463,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AAmiens_France_Cath%C3%A9drale-Notre-Dame-d-Amiens-13a.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 49.895,
+    "lng": 2.302222
+   }
   },
   {
    "name": "Bourges Cathedral",
@@ -607,7 +619,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ABourges_Cath%C3%A9drale_Saint-%C3%89tienne_Innen_Chorgew%C3%B6lbe.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 47.081944,
+    "lng": 2.399444
+   }
   },
   {
    "name": "Sainte-Chapelle",
@@ -737,7 +753,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASanta_Capilla%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_49.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.855278,
+    "lng": 2.345
+   }
   },
   {
    "name": "Beauvais Cathedral",
@@ -889,7 +909,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ACath%C3%A9drale_Saint-Pierre_de_Beauvais_salle_du_chapitre_04.JPG"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 49.4326,
+    "lng": 2.0814
+   }
   }
  ]
 }

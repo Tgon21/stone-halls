@@ -87,6 +87,21 @@ function render(w) {
       <h2><span>II</span>The Architecture</h2>
       ${paras(w.architecture)}
     </section>
+    ${w.geo ? `
+    <section class="col plaque__geo">
+      <h2><span>III</span>Where It Stands</h2>
+      <nav class="geo__tabs" role="tablist">
+        <button class="geo__tab on" data-view="sat">Satellite</button>
+        <button class="geo__tab" data-view="map">Map</button>
+        <button class="geo__tab" data-view="sv">Street view</button>
+        <a class="geo__open" target="_blank" rel="noopener"
+           href="https://www.google.com/maps/search/?api=1&query=${w.geo.lat},${w.geo.lng}">
+           Open in Google Maps ↗</a>
+      </nav>
+      <div class="geo__pane" data-lat="${w.geo.lat}" data-lng="${w.geo.lng}"></div>
+      <p class="geo__hint">Drop into street view and walk around the outside — or drag the map;
+         the pin marks ${esc(w.name)}.</p>
+    </section>` : ''}
     <aside class="facts">
       <h3>In figures</h3>
       <dl>${(w.facts || []).map(f => `<dt>${esc(f.k)}</dt><dd>${esc(f.v)}</dd>`).join('')}</dl>
@@ -97,6 +112,8 @@ function render(w) {
         <ol>${imgs.map(im => `<li><a href="${esc(im.page)}" target="_blank" rel="noopener">${esc(im.short || KIND[im.kind])}</a> — ${esc(im.artist || 'Unknown')}, ${esc(im.license || '')}</li>`).join('')}</ol>
       </details>
     </aside>`;
+
+  wireGeo();
 
   const i = allWorks.findIndex(x => x.id === w.id);
   const prev = allWorks[i - 1], next = allWorks[i + 1];
@@ -111,6 +128,38 @@ function render(w) {
       onJump && onJump(t);
       history.replaceState(null, '', `?hall=${hallRef.id}&work=${t.id}`);
     }));
+}
+
+/* ── the map / street-view block ───────────────────────────────
+   Keyless Google embeds. The iframe is created only when the pane
+   scrolls into view, and swapped when a tab is picked. */
+const GEO_SRC = {
+  sat: (a, o) => `https://maps.google.com/maps?q=${a},${o}&z=17&t=k&output=embed`,
+  map: (a, o) => `https://maps.google.com/maps?q=${a},${o}&z=16&output=embed`,
+  sv:  (a, o) => `https://maps.google.com/maps?q=&layer=c&cbll=${a},${o}&cbp=11,0,0,0,0&output=svembed`,
+};
+
+function loadGeo(pane, view) {
+  const { lat, lng } = pane.dataset;
+  pane.innerHTML =
+    `<iframe src="${GEO_SRC[view](lat, lng)}" loading="lazy" allowfullscreen
+      referrerpolicy="no-referrer-when-downgrade"
+      title="${view === 'sv' ? 'Street view' : 'Map'}"></iframe>`;
+}
+
+function wireGeo() {
+  const sec = root.querySelector('.plaque__geo');
+  if (!sec) return;
+  const pane = sec.querySelector('.geo__pane');
+  const tabs = [...sec.querySelectorAll('.geo__tab')];
+  tabs.forEach(t => t.addEventListener('click', () => {
+    tabs.forEach(x => x.classList.toggle('on', x === t));
+    loadGeo(pane, t.dataset.view);
+  }));
+  // don't touch the network until the reader reaches the section
+  new IntersectionObserver((es, ob) => {
+    if (es.some(e => e.isIntersecting)) { loadGeo(pane, 'sat'); ob.disconnect(); }
+  }, { root: root.querySelector('.plaque__scroll'), rootMargin: '200px' }).observe(pane);
 }
 
 function showLB(i) {

@@ -118,7 +118,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AKrak_des_Chevaliers_great_vaulted_room_3256.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 34.757,
+    "lng": 36.2947
+   }
   },
   {
    "name": "Caernarfon Castle",
@@ -270,7 +274,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_Castle_Poppies_Sculpture_-_wide_angle.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 53.1393,
+    "lng": -4.2769
+   }
   },
   {
    "name": "Conwy Castle",
@@ -400,7 +408,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_Great_Hall%2C_looking_East_Conwy_20240529_0177_DxO.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 53.28,
+    "lng": -3.825556
+   }
   },
   {
    "name": "Cité de Carcassonne",
@@ -552,7 +564,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AMarie_Lavandier-Carcassonne_12-09-2024_%282%29.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 43.20662,
+    "lng": 2.36398
+   }
   },
   {
    "name": "Malbork Castle",
@@ -715,7 +731,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AMalbork_castle_corbels_Palace_2.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 54.039722,
+    "lng": 19.027778
+   }
   },
   {
    "name": "Alcázar of Segovia",
@@ -845,7 +865,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AMuseo_del_Real_Colegio_de_Artiller%C3%ADa.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 40.9525,
+    "lng": -4.1325
+   }
   }
  ]
 }

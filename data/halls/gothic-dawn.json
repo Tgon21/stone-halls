@@ -151,7 +151,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AVido_el_la_fino_de_la_centra_navo_al_la_enirpordego._Baziliko_de_Saint-Denis.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.935556,
+    "lng": 2.359722
+   }
   },
   {
    "name": "Notre-Dame de Paris",
@@ -314,7 +318,11 @@
      "license": "CC0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASculptuur_van_een_fantasiewezen_op_de_Notre-Dame_te_Parijs_PARIS._-_Chim%C3%A8re_Eglise_Notre-Dame_%28titel_op_object%29%2C_RP-F-00-4094.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.853056,
+    "lng": 2.35
+   }
   },
   {
    "name": "Canterbury Cathedral",
@@ -466,7 +474,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AChristchurch_Cathedral%2C_Tomb_Monument_Canterbury_1336823_20230814_0063.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.2797,
+    "lng": 1.0831
+   }
   },
   {
    "name": "Laon Cathedral",
@@ -618,7 +630,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ALaon_Cathedral_Gargoyles_01.JPG"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 49.5643,
+    "lng": 3.625
+   }
   },
   {
    "name": "Wells Cathedral",
@@ -770,7 +786,11 @@
      "license": "CC BY-SA 2.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AGlimpsed_through_murky_leaded_glass_-_geograph.org.uk_-_7711847.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.2104,
+    "lng": -2.6437
+   }
   },
   {
    "name": "Salisbury Cathedral",
@@ -933,7 +953,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AAt_Salisbury_2023_187.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.064722,
+    "lng": -1.7975
+   }
   }
  ]
 }

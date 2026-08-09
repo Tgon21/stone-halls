@@ -1,0 +1,166 @@
+{
+ "durham": {
+  "lat": 54.773611,
+  "lng": -1.576111
+ },
+ "speyer": {
+  "lat": 49.3172,
+  "lng": 8.4424
+ },
+ "pisa": {
+  "lat": 43.723281,
+  "lng": 10.395845
+ },
+ "santiago": {
+  "lat": 42.880556,
+  "lng": -8.544444
+ },
+ "vezelay": {
+  "lat": 47.466389,
+  "lng": 3.748611
+ },
+ "saint-denis": {
+  "lat": 48.935556,
+  "lng": 2.359722
+ },
+ "notre-dame": {
+  "lat": 48.853056,
+  "lng": 2.35
+ },
+ "canterbury": {
+  "lat": 51.2797,
+  "lng": 1.0831
+ },
+ "laon": {
+  "lat": 49.5643,
+  "lng": 3.625
+ },
+ "wells": {
+  "lat": 51.2104,
+  "lng": -2.6437
+ },
+ "salisbury": {
+  "lat": 51.064722,
+  "lng": -1.7975
+ },
+ "chartres": {
+  "lat": 48.4478,
+  "lng": 1.4878
+ },
+ "reims": {
+  "lat": 49.253889,
+  "lng": 4.034167
+ },
+ "amiens": {
+  "lat": 49.895,
+  "lng": 2.302222
+ },
+ "bourges": {
+  "lat": 47.081944,
+  "lng": 2.399444
+ },
+ "sainte-chapelle": {
+  "lat": 48.855278,
+  "lng": 2.345
+ },
+ "beauvais": {
+  "lat": 49.4326,
+  "lng": 2.0814
+ },
+ "krak": {
+  "lat": 34.757,
+  "lng": 36.2947
+ },
+ "caernarfon": {
+  "lat": 53.1393,
+  "lng": -4.2769
+ },
+ "conwy": {
+  "lat": 53.28,
+  "lng": -3.825556
+ },
+ "carcassonne": {
+  "lat": 43.20662,
+  "lng": 2.36398
+ },
+ "malbork": {
+  "lat": 54.039722,
+  "lng": 19.027778
+ },
+ "alcazar-segovia": {
+  "lat": 40.9525,
+  "lng": -4.1325
+ },
+ "milan": {
+  "lat": 45.464167,
+  "lng": 9.191389
+ },
+ "kings-college": {
+  "lat": 52.2048,
+  "lng": 0.1165
+ },
+ "gloucester": {
+  "lat": 51.8675,
+  "lng": -2.246667
+ },
+ "st-vitus": {
+  "lat": 50.090833,
+  "lng": 14.400556
+ },
+ "batalha": {
+  "lat": 39.659167,
+  "lng": -8.826111
+ },
+ "florence-duomo": {
+  "lat": 43.773056,
+  "lng": 11.256944
+ },
+ "st-peters": {
+  "lat": 41.902222,
+  "lng": 12.453333
+ },
+ "chambord": {
+  "lat": 47.616111,
+  "lng": 1.517222
+ },
+ "st-pauls": {
+  "lat": 51.5138,
+  "lng": -0.0983
+ },
+ "karlskirche": {
+  "lat": 48.198281,
+  "lng": 16.3719
+ },
+ "melk": {
+  "lat": 48.228056,
+  "lng": 15.333889
+ },
+ "cologne": {
+  "lat": 50.941389,
+  "lng": 6.958333
+ },
+ "westminster-palace": {
+  "lat": 51.499167,
+  "lng": -0.124722
+ },
+ "neuschwanstein": {
+  "lat": 47.5575,
+  "lng": 10.749444
+ },
+ "sagrada-familia": {
+  "lat": 41.40369,
+  "lng": 2.17433
+ },
+ "grundtvig": {
+  "lat": 55.716583,
+  "lng": 12.533611
+ },
+ "liverpool-metropolitan": {
+  "lat": 53.4047,
+  "lng": -2.9688
+ },
+ "seville": {
+  "lat": 37.385742,
+  "lng": -5.993096
+ }
+}

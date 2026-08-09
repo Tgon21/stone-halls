@@ -163,7 +163,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AWLM_2017_K%C3%B6lner_Dom_Lichtspiel.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 50.941389,
+    "lng": 6.958333
+   }
   },
   {
    "name": "Palace of Westminster",
@@ -293,7 +297,11 @@
      "license": "CC BY-SA 2.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASt_Stephen%27s_Porch_door%2C_Palace_of_Westminster.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.499167,
+    "lng": -0.124722
+   }
   },
   {
    "name": "Neuschwanstein Castle",
@@ -401,7 +409,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASchwangau_-_Schloss_Neuschwanstein_%28b%29.JPG"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 47.5575,
+    "lng": 10.749444
+   }
   },
   {
    "name": "Sagrada Família",
@@ -564,7 +576,11 @@
      "license": "CC BY 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASagrada_Familia_blue_%26_green_stained_glass_windows.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 41.40369,
+    "lng": 2.17433
+   }
   },
   {
    "name": "Grundtvig's Church",
@@ -727,7 +743,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AGrundtvigs_Kirke_%28West_Face_Detail_-_01%29.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 55.716583,
+    "lng": 12.533611
+   }
   },
   {
    "name": "Liverpool Metropolitan Cathedral",
@@ -890,7 +910,11 @@
      "license": "CC BY-SA 2.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ALiverpool%2C_Metropolitan_Cathedral_of_Christ_the_King%2C_Sculpture_-_geograph.org.uk_-_7955238.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 53.4047,
+    "lng": -2.9688
+   }
   }
  ]
 }

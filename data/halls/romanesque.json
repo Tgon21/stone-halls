@@ -129,7 +129,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3A1161023_Cathedral_Church_of_Christ%2C_Blessed_Mary_the_Virgin_and_St_Cuthbert_of_Durham%2C_Interior%2C_Bishop%27s_seat_Durham_20240523_0192_DxO.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 54.773611,
+    "lng": -1.576111
+   }
   },
   {
    "name": "Speyer Cathedral",
@@ -292,7 +296,11 @@
      "license": "CC0",
      "page": "https://commons.wikimedia.org/wiki/File%3A20250913Speyrer_Dom12.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 49.3172,
+    "lng": 8.4424
+   }
   },
   {
    "name": "Pisa Cathedral",
@@ -433,7 +441,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ACath%C3%A9drale_-_int%C3%A9rieur_%28Pise%29.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 43.723281,
+    "lng": 10.395845
+   }
   },
   {
    "name": "Santiago de Compostela",
@@ -585,7 +597,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3A2026._Porta_na_fachada_da_Quintana_da_Catedral_de_Santiago_de_Compostela._Galiza-2.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 42.880556,
+    "lng": -8.544444
+   }
   },
   {
    "name": "Vézelay Abbey",
@@ -748,7 +764,11 @@
      "license": "CC BY 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3A01_Tympanum_Vezelay_Abbey.png"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 47.466389,
+    "lng": 3.748611
+   }
   }
  ]
 }

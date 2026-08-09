@@ -151,7 +151,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AFirenze_-_Florence_-_Cattedrale_di_Santa_Maria_del_Fiore_-_View_East_through_Central_Nave.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 43.773056,
+    "lng": 11.256944
+   }
   },
   {
    "name": "St Peter's Basilica",
@@ -314,7 +318,11 @@
      "license": "CC0",
      "page": "https://commons.wikimedia.org/wiki/File%3APainting_Detail_in_St._Peter%27s_Basilica.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 41.902222,
+    "lng": 12.453333
+   }
   },
   {
    "name": "Château de Chambord",
@@ -466,7 +474,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AChambord_detail_A.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 47.616111,
+    "lng": 1.517222
+   }
   },
   {
    "name": "St Paul's Cathedral",
@@ -596,7 +608,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ALondon_St_Paul%27s_Cathedral_Interior_10.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.5138,
+    "lng": -0.0983
+   }
   },
   {
    "name": "Karlskirche",
@@ -748,7 +764,11 @@
      "license": "CC BY-SA 3.0 at",
      "page": "https://commons.wikimedia.org/wiki/File%3AKarlskirche_von_Vorne%2C_Wien.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.198281,
+    "lng": 16.3719
+   }
   },
   {
    "name": "Melk Abbey",
@@ -900,7 +920,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AMelk_abbey_entrance_detail_01.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 48.228056,
+    "lng": 15.333889
+   }
   }
  ]
 }

@@ -151,7 +151,11 @@
      "license": "CC0",
      "page": "https://commons.wikimedia.org/wiki/File%3AStained_Glass_in_Milan_Cathedral.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 45.464167,
+    "lng": 9.191389
+   }
   },
   {
    "name": "King's College Chapel",
@@ -292,7 +296,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3A20130808_Kings_College_Chapel_Closeup_01.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 52.2048,
+    "lng": 0.1165
+   }
   },
   {
    "name": "Gloucester Cathedral",
@@ -455,7 +463,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AFLOOR_BELOW_CRECY_WINDOW.JPG"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 51.8675,
+    "lng": -2.246667
+   }
   },
   {
    "name": "St Vitus Cathedral",
@@ -618,7 +630,11 @@
      "license": "CC BY-SA 2.0",
      "page": "https://commons.wikimedia.org/wiki/File%3AOrnamental_%2848025745096%29.png"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 50.090833,
+    "lng": 14.400556
+   }
   },
   {
    "name": "Seville Cathedral",
@@ -770,7 +786,11 @@
      "license": "CC BY-SA 4.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ASevilla_en_el_siglo_XVI%2C_detalle%2C_%28Alonso_S%C3%A1nchez_Coello%29.jpg"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 37.385742,
+    "lng": -5.993096
+   }
   },
   {
    "name": "Batalha Monastery",
@@ -933,7 +953,11 @@
      "license": "CC BY-SA 3.0",
      "page": "https://commons.wikimedia.org/wiki/File%3ADetail_of_Mosteiro_da_Batalha.JPG"
     }
-   ]
+   ],
+   "geo": {
+    "lat": 39.659167,
+    "lng": -8.826111
+   }
   }
  ]
 }
