@@ -1,0 +1,199 @@
+{
+"chartres": {
+  "name": "Chartres Cathedral",
+  "place": "Chartres, France",
+  "dates": "1194 — 1220",
+  "style": "High Gothic",
+  "tagline": "Rebuilt in twenty-six years after a fire, and still holding more of its original glass than anywhere else on earth.",
+  "history": [
+    "On 10 June 1194 fire took the town and most of the cathedral. The relic that made Chartres a pilgrimage centre — the Sancta Camisa, said to be the tunic Mary wore at the Nativity — was believed lost, and the townspeople took the disaster as a judgement. Three days later it was found intact in the crypt. Read as a demand for a greater church, the discovery unlocked money from every direction, and rebuilding began at once.",
+    "It went up in twenty-six years, which is why Chartres is so unusually whole: one campaign, one design, one vision, on the surviving crypt and west front of the older church. Carts of stone were hauled from the quarry at Berchères, five miles off, by townspeople as well as labourers.",
+    "It has never been seriously damaged since. It escaped the Wars of Religion, the Revolution and both world wars — in 1944 an American officer, Welborn Griffith, doubted the report that Germans were using the spires as an observation post, drove into the town to check, and had the shelling order rescinded. He was killed the same day. The glass had already been removed, panel by panel, and buried."
+  ],
+  "architecture": [
+    "Chartres is where High Gothic settles into its mature form. The old four-storey elevation is compressed into three — arcade, triforium, clerestory — and the clerestory grows until it is nearly as tall as the arcade below it. Above, simple four-part vaults over single bays replace the awkward six-part vaults of the earlier generation. From here on, this is what a cathedral looks like.",
+    "That was made possible by pulling the buttressing outside and admitting it as architecture. Chartres' flying buttresses are heavy, tiered and unapologetic, with radiating spoke-like colonnettes between the arcs. They take the thrust of a 37-metre vault so that the wall beneath is free to be almost entirely window.",
+    "And the window is the point. About 150 of the original medieval windows survive — some 2,600 square metres of glass, including the deep cobalt now called Chartres blue, whose exact recipe is lost. The light inside changes hour by hour and never resembles daylight. Set into the floor of the nave is a labyrinth 12.9 metres across, walked as a pilgrimage in miniature; the west front's Royal Portal, carved in the 1140s and spared by the fire, holds column-figures whose calm elongated faces are the beginning of Gothic sculpture."
+  ],
+  "facts": [
+    {"k":"Rebuilt","v":"1194 — 1220, after the fire"},
+    {"k":"Vault height","v":"37 m"},
+    {"k":"Medieval windows","v":"About 150 surviving; 2,600 m² of glass"},
+    {"k":"Labyrinth","v":"12.9 m across, set in the nave floor"},
+    {"k":"Spires","v":"105 m and 113 m — deliberately unmatched"},
+    {"k":"Status","v":"UNESCO World Heritage, 1979"}
+  ],
+  "look": [
+    "Chartres blue — a cobalt nobody has been able to reproduce",
+    "Tiered flying buttresses with radiating spokes between the arcs",
+    "The Royal Portal of the 1140s, survivor of the fire",
+    "The two mismatched spires: one Romanesque plain, one Flamboyant lace"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+},
+
+"reims": {
+  "name": "Reims Cathedral",
+  "place": "Reims, France",
+  "dates": "1211 — 1275",
+  "style": "High Gothic",
+  "tagline": "Where the kings of France were crowned, where bar tracery was perfected, and where an angel is still smiling after being blown off the building in 1914.",
+  "history": [
+    "Clovis, king of the Franks, was baptised at Reims about 496, and the memory of it made the city the coronation place of France. Twenty-five kings were crowned in this building, most famously Charles VII in 1429 with Joan of Arc standing beside him — the entire point of her campaign had been to get him here.",
+    "The cathedral was begun in 1211 after fire destroyed its predecessor, and the labyrinth once set in its floor recorded the names of four successive master masons, an unusual medieval instance of architects signing their work.",
+    "On 19 September 1914 German artillery set the scaffolding alight; the burning timber roof brought molten lead pouring through the gargoyles, and the fire gutted the interior. The bombardment continued, on and off, for four years. Photographs of the ruin became the defining image of cultural vandalism in the war. Restoration, funded substantially by John D. Rockefeller Jr., ran from 1919 to 1938 — and continues in a quieter way still."
+  ],
+  "architecture": [
+    "Reims is the cathedral where the window frame itself becomes architecture. Earlier builders cut holes in a wall; here Jean d'Orbais's masons built the window as a slender stone skeleton — mullions rising and branching into circles and foils — with glass filling every gap. This is bar tracery, and within a generation it was everywhere in Europe.",
+    "The interior is tall, narrow and relentlessly vertical: 38 metres to the vault, with the wall shafts running unbroken from floor to springing so that the eye is never allowed to rest. The west front, unusually, replaces the tympana over its portals with glazed openings — the sculpture migrates outward onto the gables and up into a great gallery of kings.",
+    "Above all Reims is a sculpture gallery: some 2,300 figures. Several workshops worked at once, one of them with an extraordinary feel for weight, cloth and human contact — the Visitation group has two women in near-classical drapery clearly in conversation, and the Angel of the Annunciation wears the broad, knowing smile that gave it a nickname. It was decapitated by a shell in 1914 and put back together from fragments."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1211"},
+    {"k":"Vault height","v":"38 m"},
+    {"k":"Coronations","v":"25 kings of France"},
+    {"k":"Sculpture","v":"About 2,300 figures"},
+    {"k":"Innovation","v":"Bar tracery, developed to maturity here"},
+    {"k":"War damage","v":"Shelled from 1914; restored 1919 — 1938"}
+  ],
+  "look": [
+    "The Smiling Angel, reassembled after a 1914 shell took its head off",
+    "Bar tracery: the window built as a stone skeleton, not a hole in a wall",
+    "Glazed openings where the west portals should have carved tympana",
+    "Marc Chagall's 1974 windows in the axial chapel, in the same blue"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Reims_Cathedral"
+},
+
+"amiens": {
+  "name": "Amiens Cathedral",
+  "place": "Amiens, France",
+  "dates": "1220 — 1270",
+  "style": "High Gothic at full stretch",
+  "tagline": "The largest interior volume in France, raised in fifty years — and its medieval paint has been found again, in light.",
+  "history": [
+    "The old cathedral burned in 1218. Robert de Luzarches began the replacement in 1220 and, unusually, built west to east, so the nave came first. The town could afford it: Amiens grew rich on woad, the blue dye that clothed medieval Europe, and the cathedral is what the dye trade bought.",
+    "The relic that drew pilgrims was the alleged head of John the Baptist, brought back from the sack of Constantinople in 1204. Money and relic together produced a building of ferocious ambition, essentially complete in structure within fifty years.",
+    "It has been lucky. It survived the Revolution and came through both world wars almost unscathed, though in 1918 and again in 1939 the portals were walled up behind sandbags. Since 1992, laser cleaning has revealed traces of the original polychromy on the west front — and each summer the colours are projected back onto the sculpture at night, showing the façade approximately as the thirteenth century saw it."
+  ],
+  "architecture": [
+    "Amiens takes the Chartres formula and pushes it as far as the material will comfortably go: a vault 42.3 metres above the floor — the tallest completed medieval vault in France — over a nave of exceptional narrowness relative to its height. The interior volume, about 200,000 cubic metres, is the largest in the country.",
+    "The wall has almost stopped existing. The triforium is glazed at the east end so that the middle storey joins the clerestory as light, and every vertical line is drawn out into a thin shaft. The overall effect is of a cage of stone ribs holding up nothing but glass — which is precisely what it is.",
+    "The west front is one of the great sculptural programmes of the Middle Ages: the Last Judgement over the central door, and on the pier between the doors the standing Christ known as the Beau Dieu, a figure of striking gentleness. Inside, in the floor of the nave, a labyrinth laid in black and white stone in 1288 names the master masons; and above the choir stalls, 4,000 carved oak figures put sixteenth-century Amiens — its trades, its jokes, its animals — into the sacred furniture."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1220, Robert de Luzarches"},
+    {"k":"Vault height","v":"42.3 m — tallest complete in France"},
+    {"k":"Interior volume","v":"About 200,000 m³"},
+    {"k":"Length","v":"145 m"},
+    {"k":"Choir stalls","v":"c. 4,000 carved figures, 1508 — 1519"},
+    {"k":"Status","v":"UNESCO World Heritage, 1981"}
+  ],
+  "look": [
+    "The glazed triforium, dissolving the last solid band of wall",
+    "The Beau Dieu on the central pier of the west front",
+    "The 1288 labyrinth, naming the men who built the place",
+    "Colour projections restoring the façade's medieval paint after dark"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+},
+
+"bourges": {
+  "name": "Bourges Cathedral",
+  "place": "Bourges, France",
+  "dates": "1195 — 1230",
+  "style": "High Gothic, an alternative line",
+  "tagline": "The cathedral that solved the same problem a completely different way: no transept, five aisles, and a section shaped like a mountain.",
+  "history": [
+    "Begun about 1195 under Archbishop Henri de Sully — brother of the bishop who started Notre-Dame — Bourges was raised largely between then and 1230, with the west front finished later. It sits in the centre of France, and for a while it was the seat of a king: during the Hundred Years' War, when the English held Paris, Charles VII ruled from here and was mocked as the King of Bourges.",
+    "The building suffered a partial collapse of the south-west tower in 1506; it was rebuilt, and paid for by a tax on butter during Lent — its rebuilt tower is still called the Butter Tower.",
+    "Its stained glass is the other reason to come: a nearly complete set of windows from around 1215 in the ambulatory, telling parables and saints' lives in medallions, and given by the guilds of the city, who signed them with pictures of themselves at work."
+  ],
+  "architecture": [
+    "Bourges refuses the standard High Gothic plan. There is no transept at all, so the interior is one uninterrupted volume from door to apse, and the eye runs the entire 120-metre length without a break.",
+    "Instead of the usual nave and two aisles, there are five vessels: a central nave 37 metres high and, on each side, an inner aisle 21.3 metres high with its own triforium and clerestory, then an outer aisle lower still. The section is a stepped pyramid. Light enters at three levels, and because the inner aisle is so tall, the great arcade of the nave is enormously stilted — you look through it into a second, smaller cathedral running alongside.",
+    "The structural advantage is real: the stepped section braces itself, so the flying buttresses can be steeply pitched and comparatively light. The visual result is a space of extraordinary depth and complexity, far less diagrammatic than Chartres or Amiens. It is the road High Gothic did not take."
+  ],
+  "facts": [
+    {"k":"Begun","v":"c. 1195"},
+    {"k":"Plan","v":"Five vessels, no transept"},
+    {"k":"Nave height","v":"37 m"},
+    {"k":"Inner aisle height","v":"21.3 m, with its own clerestory"},
+    {"k":"Glass","v":"Ambulatory windows, c. 1215, largely complete"},
+    {"k":"Status","v":"UNESCO World Heritage, 1992"}
+  ],
+  "look": [
+    "The stepped pyramid section — a cathedral inside a cathedral",
+    "No transept: one unbroken volume the whole length of the building",
+    "Guild windows signed with butchers, weavers and stonemasons at work",
+    "The Butter Tower, paid for by dispensations to eat dairy in Lent"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Bourges_Cathedral"
+},
+
+"sainte-chapelle": {
+  "name": "Sainte-Chapelle",
+  "place": "Paris, France",
+  "dates": "1238 — 1248",
+  "style": "Rayonnant Gothic",
+  "tagline": "A reliquary the size of a building: fifteen windows fifteen metres high, and almost no wall left at all.",
+  "history": [
+    "In 1239 Louis IX of France bought the Crown of Thorns from the Latin emperor of Constantinople, who had pawned it to Venetian bankers. The king met the relic at Villeneuve-l'Archevêque and carried it the last stretch himself, barefoot. Further relics followed. He needed somewhere to keep them.",
+    "The chapel was built inside the royal palace on the Île de la Cité in about seven years and consecrated in 1248 — extraordinarily fast, and evidence that it was designed as a single object rather than grown over generations. The relics cost roughly three times what the building did: 135,000 livres against about 40,000.",
+    "The Revolution scattered the relics and turned the chapel into a flour store and archive; the spire burned. From 1840 a team including Viollet-le-Duc restored it. About two-thirds of the glass is original thirteenth-century work, and a major cleaning finished in 2015 returned the colour to something like its first state."
+  ],
+  "architecture": [
+    "The design problem was to build a room with no walls. The answer is fifteen windows, each about 15 metres high, separated by piers so slender they read as mullions, with the vault ribs dropping straight onto them. Nearly 640 square metres of glass, and around 1,113 individual scenes running from Genesis to the arrival of the relics in Paris — the last panel is the story of the building you are standing in.",
+    "It only stands because of what you cannot see. Iron chains are set in the masonry at the window sills and again at the springing, tying the whole box together as a tension ring — one of the earliest structural uses of iron on this scale. External buttresses and the low chapel below do the rest.",
+    "There are two chapels stacked. The lower, for palace servants, is short, dim and painted deep blue with gold fleurs-de-lis, a starry vault holding up the room above. Climb the spiral stair into the upper chapel and the effect is engineered: from a cave into a lantern."
+  ],
+  "facts": [
+    {"k":"Built","v":"1238/41 — 1248, in about seven years"},
+    {"k":"Windows","v":"15 bays, about 15 m high"},
+    {"k":"Glass","v":"About 640 m²; c. 1,113 scenes; two-thirds original"},
+    {"k":"Cost","v":"c. 40,000 livres — the relics cost 135,000"},
+    {"k":"Hidden structure","v":"Iron tie-chains bedded in the masonry"},
+    {"k":"Restored","v":"1840s; glass cleaned 2008 — 2015"}
+  ],
+  "look": [
+    "The walls that are not there — piers reduced to the width of mullions",
+    "Iron chains at the sills, holding the glass box in tension",
+    "The rose of the Apocalypse, Flamboyant work of the 1480s",
+    "The last window's final panels: the relics arriving in Paris"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sainte-Chapelle"
+},
+
+"beauvais": {
+  "name": "Beauvais Cathedral",
+  "place": "Beauvais, France",
+  "dates": "1225 — 1573",
+  "style": "High Gothic, past the limit",
+  "tagline": "The tallest vault ever built, the tallest spire ever built, and two collapses that ended the competition for good.",
+  "history": [
+    "Beauvais set out in 1225 to beat everyone. Its choir was designed to rise 48 metres to the vault — six metres higher than Amiens, and the greatest height ever attempted in the Gothic. It was finished in 1272. In 1284 part of it came down.",
+    "The rebuilding was cautious: intermediate piers were inserted to halve the spans, and the choir has stood ever since. Then, in the sixteenth century, ambition returned. A crossing tower and spire were raised to about 153 metres, making Beauvais briefly the tallest structure in the world. It stood for four years. On Ascension Day 1573, as the congregation left, it collapsed.",
+    "After that the money and the nerve were gone. The nave was never built. What exists today is a choir and transept of superhuman height attached to a fragment of a tenth-century church, propped since the 1990s by a forest of internal bracing while engineers work out how to make it safe permanently."
+  ],
+  "architecture": [
+    "The choir is the furthest Gothic structure ever pushed. At 48.5 metres the vault is more than half again the height of a normal cathedral, over piers of a thinness that seems like a misprint. Standing beneath it is genuinely disorienting; there is no horizontal anywhere to steady the eye.",
+    "It failed for reasons medieval builders could not calculate: not crushing — the stone was nowhere near its compressive limit — but buckling and wind. Modern analysis suggests the piers were slender enough to move, and that thermal cycling and gusts worked the joints until something let go.",
+    "That failure is why the Gothic stopped climbing. After Beauvais, height ceased to be the competition; ambition moved sideways into tracery, vault patterning and glass. The building is both the high-water mark of the style and the reason the tide turned. Inside is also the oldest working astronomical clock in the world, built in the 1860s with 90,000 parts, and a medieval one from about 1305 still ticking beside it."
+  ],
+  "facts": [
+    {"k":"Choir begun","v":"1225; vaulted 1272"},
+    {"k":"Vault height","v":"48.5 m — the tallest ever built"},
+    {"k":"First collapse","v":"1284"},
+    {"k":"Spire","v":"c. 153 m, briefly the world's tallest"},
+    {"k":"Second collapse","v":"Ascension Day, 1573"},
+    {"k":"Nave","v":"Never built"}
+  ],
+  "look": [
+    "A vault half again as high as any of its rivals, on impossibly thin piers",
+    "The steel and timber bracing installed to keep it standing",
+    "The raw join where the choir meets a tenth-century church",
+    "Two astronomical clocks, one medieval, one with 90,000 parts"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Beauvais_Cathedral"
+}
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Stone Halls — a walking exhibit of cathedrals and castles</title>
+<meta name="description" content="Walk seven halls of cathedral and castle architecture, from the Romanesque round arch to Gaudí's stone forest. Every building is hung on the wall; step up to it and read how it was built.">
+<meta name="theme-color" content="#08080a">
+<meta property="og:title" content="The Stone Halls">
+<meta property="og:description" content="A walking exhibit of cathedrals and castles, a thousand years in seven halls.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/timeline.css">
+</head>
+<body>
+
+<div class="stage">
+  <header class="mast">
+    <div class="mast__rose" id="mastRose"></div>
+    <h1><em>The</em>Stone Halls</h1>
+    <p>A thousand years of cathedrals and castles, hung in seven rooms.
+       Choose an age, walk its hall, and stand in front of what they built.</p>
+  </header>
+
+  <nav class="tl" aria-label="Timeline of eras">
+    <div class="tl__track" id="track"></div>
+  </nav>
+
+  <div class="axis" id="axis" aria-hidden="true"></div>
+
+  <footer class="foot">
+    <span class="hint"><i></i> Scroll sideways, or press <b>→</b></span>
+    <span>Pictures from Wikimedia Commons · <a href="about.html">about &amp; credits</a></span>
+  </footer>
+</div>
+
+<div class="vignette"></div>
+<div class="grain"></div>
+
+<script type="module" src="js/timeline.js"></script>
+</body>
+</html>

@@ -1,0 +1,166 @@
+{
+"durham": {
+  "name": "Durham Cathedral",
+  "place": "Durham, England",
+  "dates": "1093 — 1133",
+  "style": "Norman Romanesque",
+  "tagline": "A fortress church on a rock in a river loop, where somebody first threw a pointed rib across a nave and the Gothic became possible.",
+  "history": [
+    "The monks of Lindisfarne carried the body of St Cuthbert around northern England for over a century, fleeing Viking raids, before setting it down on a high peninsula inside a bend of the River Wear. Bishop William of St-Calais began the present church over that grave in 1093. It went up with astonishing speed — the choir by 1104, the nave vault by 1133 — because it had to be finished: it was simultaneously a shrine, a monastery, and the headquarters of a bishop who ruled the border with Scotland as a semi-independent prince.",
+    "Those prince-bishops held their own army, minted their own coin and kept their own courts. The cathedral is built accordingly. It sits beside the castle on the same defensible rock, and the two together closed the neck of the peninsula against anything coming from the north.",
+    "Cuthbert still lies behind the high altar; Bede, who wrote the history of the English church, lies at the west end in the Galilee Chapel. In the 1650s Cromwell used the building to imprison thousands of Scottish soldiers taken at Dunbar. They burned almost every piece of woodwork in the cathedral to keep from freezing — and left alone, it is thought, the clock, which carried a Scottish thistle."
+  ],
+  "architecture": [
+    "Everything here is about mass. The nave piers alternate between clustered shafts and colossal drums nearly two metres thick, and those drums are incised with chevrons, flutes, spirals and lozenges — patterns cut deep enough to read from the far end of the church. Nothing else in Europe does this at this scale. It is decoration by carving into structure rather than applying anything to it.",
+    "Its real claim is the roof. The high vault over the nave, finished around 1133, uses pointed transverse arches carrying a ribbed vault over a rectangular bay — the earliest large-scale use of that combination anywhere. A round arch's height is fixed by its span, so vaulting oblong bays with semicircles forces awkward compromises; point the arch and you can set any height you like over any width. Durham's masons did it for practical reasons, decades before anyone in the Île-de-France drew the conclusion.",
+    "Hidden above the aisle roofs, quadrant arches brace the springing of the high vault — buttressing flight in embryo, concealed rather than displayed. Two centuries later the same idea would be pulled outside into the open air and become the flying buttress."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1093"},
+    {"k":"High vault","v":"c. 1133 — earliest large ribbed pointed vault"},
+    {"k":"Nave vault height","v":"about 22 m"},
+    {"k":"Length","v":"143 m"},
+    {"k":"Central tower","v":"66 m (rebuilt 1470s)"},
+    {"k":"Status","v":"UNESCO World Heritage, 1986"}
+  ],
+  "look": [
+    "The incised drum piers — chevron, spiral, lozenge, no two neighbours alike",
+    "Pointed transverse arches in the nave high vault, a century early",
+    "The Galilee Chapel's slender Islamic-looking arcades, added c. 1175",
+    "The Sanctuary Knocker on the north door: grab it and claim 37 days' refuge"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Durham_Cathedral"
+},
+
+"speyer": {
+  "name": "Speyer Cathedral",
+  "place": "Speyer, Germany",
+  "dates": "1030 — 1106",
+  "style": "Imperial Romanesque",
+  "tagline": "The largest Romanesque church left standing, built by emperors who wanted a burial vault that argued with Rome.",
+  "history": [
+    "Conrad II founded it in 1030, at the start of the Salian dynasty, and intended it as the largest church in the Western world — a dynastic mausoleum for a family claiming the mantle of the Roman emperors. He did not live to see it; he was the first of eight emperors and kings buried in its crypt, along with empresses, queens and bishops.",
+    "His grandson Henry IV rebuilt the church almost entirely between 1080 and 1106, doubling down on scale at the very moment he was locked in the Investiture Controversy with Pope Gregory VII — the fight over who appointed bishops, emperor or pope. Henry walked to Canossa to beg absolution in 1077, and then came home and built this. The building is an argument in stone about who outranks whom.",
+    "French troops burned it in 1689 and the western half collapsed; the west block was rebuilt in the nineteenth century in a Romanesque manner. Nineteenth-century painters filled the interior with frescoes, and the twentieth century stripped almost all of them out again, restoring the bare stone the Salians would recognise."
+  ],
+  "architecture": [
+    "The plan is severe and enormous: a long nave, a broad transept, and a raised choir over one of the largest crypts in Europe — a forest of cushion capitals and groin vaults, cool and low, where the emperors lie.",
+    "Henry IV's rebuild vaulted the nave in stone groin vaults, an extraordinary gamble at that span and date; almost every comparable building was still roofed in timber. To carry the load, the original wall piers were thickened into an alternating rhythm of heavy and light supports, and each bay was made square. This is the moment the vaulted stone nave becomes normal.",
+    "Outside, Speyer invents the vocabulary that half of Germany and northern Italy would copy: the dwarf gallery, an open miniature arcade running under the eaves right around the building, and giant blind arcading that pulls the wall into ordered bays. It is Romanesque at its most confident — no glass to speak of, no delicacy, just proportion and repetition at imperial scale."
+  ],
+  "facts": [
+    {"k":"Founded","v":"1030 by Conrad II"},
+    {"k":"Rebuilt","v":"1080 — 1106 under Henry IV"},
+    {"k":"Length","v":"134 m"},
+    {"k":"Vault height","v":"33 m"},
+    {"k":"Buried here","v":"8 emperors and kings"},
+    {"k":"Status","v":"UNESCO World Heritage, 1981"}
+  ],
+  "look": [
+    "The dwarf gallery under the eaves — an idea exported across the Empire",
+    "The crypt: forty-two groin-vaulted bays in banded red and cream stone",
+    "The alternating heavy and light wall piers that made a stone nave possible",
+    "The imperial tombs, opened and catalogued in 1900"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Speyer_Cathedral"
+},
+
+"pisa": {
+  "name": "Pisa Cathedral",
+  "place": "Pisa, Italy",
+  "dates": "1063 — 1092",
+  "style": "Pisan Romanesque",
+  "tagline": "A maritime republic spends its plunder on striped marble, and the bell tower starts leaning before it is a third built.",
+  "history": [
+    "Pisa in the eleventh century was a naval power with a fleet raiding across the western Mediterranean. The cathedral was begun in 1063, funded by spoils from a raid on Palermo, and consecrated in 1118. The Piazza del Duomo grew around it as a complete ensemble laid out on open ground beyond the city wall: cathedral, baptistery, campanile and, later, the walled cemetery of the Camposanto.",
+    "The freestanding bell tower was begun in 1173. By the time the third storey was up, the tower was tilting — the subsoil is a soft mix of clay, sand and shells, and the foundation is barely three metres deep. Construction halted for nearly a century, which as it turned out saved the tower: the soil consolidated. Later masons resumed and built the upper floors on a curve, tilting them back the other way, so the tower is banana-shaped rather than straight.",
+    "By 1990 the lean had reached about 5.5 degrees and the tower was closed. A decade of work — counterweights, then careful extraction of soil from beneath the high side — brought it back to roughly 3.97 degrees, where it is expected to stay stable for centuries."
+  ],
+  "architecture": [
+    "The Pisan Romanesque signature is horizontal banding in white and grey-green marble, and tier upon tier of arcading. The cathedral's west front stacks four open loggias above a blind arcade, so the façade reads as a screen of light and shadow that has almost nothing to do with the roof behind it.",
+    "The campanile takes the same idea and wraps it around a cylinder: six storeys of open colonnade above a blind arcaded base. It is a tower built out of the façade's own alphabet — which is why the ensemble hangs together despite being built over three centuries.",
+    "Inside, the nave is a long basilica with granite columns, many of them Roman spoils, carrying round arches under a coffered ceiling, with a Byzantine-inflected mosaic in the apse. The elliptical dome over the crossing is a distinctly un-Roman touch. Giovanni Pisano's pulpit of 1302–1310, with its restless carved figures, is one of the works where medieval sculpture starts moving again."
+  ],
+  "facts": [
+    {"k":"Cathedral begun","v":"1063, consecrated 1118"},
+    {"k":"Campanile begun","v":"1173; finished 1372"},
+    {"k":"Tower height","v":"56 m; 294 steps"},
+    {"k":"Lean today","v":"about 3.97°, down from 5.5°"},
+    {"k":"Stabilised","v":"1993 — 2001"},
+    {"k":"Status","v":"UNESCO World Heritage, 1987"}
+  ],
+  "look": [
+    "Four tiers of open loggia on the west front — a screen, not a wall",
+    "The tower's curve: it changes direction partway up",
+    "Roman and Islamic spoils reused in the columns and inlays",
+    "Giovanni Pisano's pulpit, carved 1302–1310"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pisa_Cathedral"
+},
+
+"santiago": {
+  "name": "Santiago de Compostela",
+  "place": "Galicia, Spain",
+  "dates": "1075 — 1211",
+  "style": "Romanesque, with a Baroque skin",
+  "tagline": "The great pilgrimage church at the end of the road, built as a machine for moving crowds past a tomb.",
+  "history": [
+    "In the ninth century a tomb in a Galician field was declared to be that of the apostle James. Within two hundred years the route to it was the busiest road in Europe. The present cathedral was begun in 1075 to handle the traffic, and consecrated in 1211.",
+    "The scale of medieval pilgrimage is hard to overstate: hospices, bridges, whole towns and a guidebook — the twelfth-century Codex Calixtinus, which rates the rivers along the way for drinkability — all grew up to serve it. The building is the terminus of that system, and it still is; hundreds of thousands walk in each year.",
+    "Between 1738 and 1750 the Obradoiro façade was built in front of the Romanesque west end: a Baroque explosion of granite towers and scrolls by Fernando de Casas y Novoa. It does not replace the old front. It stands in front of it like a screen, protecting the twelfth-century sculpture behind from Galician rain."
+  ],
+  "architecture": [
+    "This is the fullest surviving example of the pilgrimage church plan. A barrel-vaulted nave with no clerestory is braced by a full-height gallery over the aisles; the aisles continue around the transept and the apse as a continuous ambulatory ringed with radiating chapels. The point is circulation: a crowd can flow all the way around the building and past the shrine without ever interrupting the liturgy at the high altar.",
+    "Because the barrel vault has no clerestory, light arrives indirectly through the galleries — the interior is dim, deep and processional, the opposite of what Gothic would soon want. The structure is honest about it: the gallery vaults exist to take the thrust of the barrel above.",
+    "Behind the Baroque façade stands the Pórtico da Glória, finished by Master Mateo in 1188 — a triple portal carrying two hundred figures of the Last Judgement whose faces smile, converse, and tune instruments. It is the moment Romanesque sculpture stops being a diagram and becomes a crowd of people."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1075; consecrated 1211"},
+    {"k":"Plan","v":"Pilgrimage type: gallery, ambulatory, radiating chapels"},
+    {"k":"Length","v":"97 m"},
+    {"k":"Pórtico da Glória","v":"Master Mateo, completed 1188"},
+    {"k":"Obradoiro façade","v":"1738 — 1750"},
+    {"k":"Botafumeiro","v":"53 kg censer, swung to 21 m and 68 km/h"}
+  ],
+  "look": [
+    "The gallery running over the aisles — structure doing the work of a buttress",
+    "The ambulatory ring built for crowds, not for clergy",
+    "Mateo's Pórtico da Glória, hidden behind the Baroque front",
+    "The Botafumeiro, flown across the transept by eight men"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral"
+},
+
+"vezelay": {
+  "name": "Vézelay Abbey",
+  "place": "Burgundy, France",
+  "dates": "1120 — 1150",
+  "style": "Burgundian Romanesque",
+  "tagline": "A hilltop abbey where the Second Crusade was preached, and where the light does something on the longest day of the year.",
+  "history": [
+    "The abbey claimed the relics of Mary Magdalene, which made it one of the great pilgrimage destinations of Europe and a departure point for the road to Compostela. A fire in 1120 killed over a thousand pilgrims crowded in the nave; the church was rebuilt immediately afterwards, and the narthex added by about 1150.",
+    "Bernard of Clairvaux preached the Second Crusade from the hillside here at Easter 1146, before the king of France and a vast crowd. Richard the Lionheart and Philip Augustus mustered here in 1190 for the Third.",
+    "Everything then went wrong: the relics were discredited in 1279, the abbey was sacked by Huguenots, dissolved in the Revolution, and by 1834 was so ruinous that a young inspector of historic monuments named Prosper Mérimée reported it was about to collapse. The 26-year-old Eugène Viollet-le-Duc was sent to save it — his first major restoration, and the beginning of the modern conservation movement."
+  ],
+  "architecture": [
+    "The nave is groin-vaulted — not barrel-vaulted, which is what most Burgundian churches of the moment used — and each transverse arch is built of alternating light and dark voussoirs, so the ceiling reads as a series of banded hoops marching to the choir. It is a striped, rhythmic, almost North African effect in the middle of Burgundy.",
+    "The capitals are the best narrative sculpture of the French twelfth century: about a hundred of them, carrying scenes from scripture, moral fables and grotesques, carved with a cartoonist's sense of timing. The great narthex tympanum shows Pentecost — rays streaming from Christ's hands to the apostles, with the peoples of the known world, some with dogs' heads, waiting to be reached. It is a mission statement for a church that launched crusades.",
+    "The Gothic choir, added around 1185, is markedly lighter than the Romanesque nave — you can stand at the crossing and watch the architecture change eras. And on the summer solstice, at midday, the high windows drop a line of light pools straight down the central axis of the nave, stepping stone to stone."
+  ],
+  "facts": [
+    {"k":"Rebuilt","v":"after the fire of 1120"},
+    {"k":"Narthex","v":"c. 1150, with the Pentecost tympanum"},
+    {"k":"Nave","v":"Groin vaults on banded transverse arches"},
+    {"k":"Restored","v":"from 1840 by Viollet-le-Duc"},
+    {"k":"Preached here","v":"the Second Crusade, Easter 1146"},
+    {"k":"Status","v":"UNESCO World Heritage, 1979"}
+  ],
+  "look": [
+    "Alternating pale and dark voussoirs banding every transverse arch",
+    "The Pentecost tympanum, with the peoples of the world in the outer arch",
+    "About a hundred narrative capitals — the mystic mill is the famous one",
+    "The solstice light: pools down the nave axis at midday in late June"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/V%C3%A9zelay_Abbey"
+}
+}

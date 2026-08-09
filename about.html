@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>About — The Stone Halls</title>
+<meta name="description" content="How this exhibit was made, and where its pictures come from.">
+<link rel="icon" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<style>
+  .page { max-width: 760px; margin: 0 auto; padding: 90px 26px 120px }
+  .page h1 {
+    font-family: var(--serif); font-weight: 300; font-size: clamp(40px,7vw,68px);
+    margin: 0 0 8px; line-height: 1;
+  }
+  .page h2 {
+    font-size: 11px; letter-spacing: .3em; text-transform: uppercase;
+    color: rgba(201,162,39,.85); margin: 56px 0 18px; font-weight: 500;
+  }
+  .page p, .page li {
+    font-family: var(--serif); font-size: 20px; line-height: 1.7;
+    color: rgba(228,220,205,.88);
+  }
+  .page p { margin: 0 0 18px; }
+  .page ul { padding-left: 20px }
+  .page li { margin-bottom: 10px }
+  .page a { color: var(--gold-soft) }
+  .back { display: inline-block; margin-bottom: 40px; font-size: 11px;
+          letter-spacing: .2em; text-transform: uppercase; color: var(--ink-dim);
+          text-decoration: none }
+  .back:hover { color: var(--gold-soft) }
+  .lede { font-style: italic; color: rgba(200,190,172,.8); font-size: 23px }
+</style>
+</head>
+<body>
+<div class="page">
+  <a class="back" href="index.html">← The timeline</a>
+  <h1>About the halls</h1>
+  <p class="lede">Seven rooms, a thousand years, and a great deal of stone that
+     someone spent their whole life cutting.</p>
+
+  <h2>What this is</h2>
+  <p>An exhibit you walk rather than scroll. Each era is a hall; each building
+     hangs on its wall as a large picture with a plaque under it. Step up to
+     one and the catalogue opens: what it is, why it was built, and how it
+     stands up — its structure, its vaults, the trick that made it possible.</p>
+  <p>The buildings were chosen for two reasons at once: they mattered to the
+     history of building, and there are enough good photographs of them —
+     outside, inside, and close up — to be worth hanging on a wall.</p>
+
+  <h2>Moving around</h2>
+  <ul>
+    <li><b>W A S D</b> or the arrow keys to walk and turn.</li>
+    <li><b>Drag</b> anywhere to look around; the scroll wheel walks you forward.</li>
+    <li><b>Click a picture</b> to step up to it and open its catalogue entry.</li>
+    <li><b>T</b> starts a guided walk that carries you down the hall on its own.</li>
+    <li>On a phone: drag to look, and use the two round buttons to walk.</li>
+  </ul>
+
+  <h2>Where the pictures come from</h2>
+  <p>Every photograph here comes from <a href="https://commons.wikimedia.org"
+     target="_blank" rel="noopener">Wikimedia Commons</a> and is public domain or
+     released under a Creative Commons licence. Each image keeps its photographer
+     and licence with it — open <i>Picture credits</i> at the foot of any catalogue
+     entry, or click a picture to see the credit under the full-size version.
+     A complete list lives in <a href="CREDITS.md">CREDITS.md</a> in the repository.</p>
+  <p>Preference was given to images the Commons community has marked as
+     <i>Featured</i>, <i>Quality</i> or <i>Valued</i> — so the walls carry the best
+     photographs available rather than merely the first ones found.</p>
+
+  <h2>Where the words come from</h2>
+  <p>The history and architecture notes were written for this exhibit and draw on
+     the standard literature on each building. Dimensions are the figures usually
+     published for each structure; medieval measurements are rarely exact and
+     sources disagree by a metre here and there. Each entry links out to a fuller
+     account if you want to go further.</p>
+
+  <h2>How it is built</h2>
+  <p>No 3-D engine, no libraries. The halls are ordinary HTML elements pushed
+     around in space with CSS transforms; the stone, the vaults and the rose
+     windows are SVG drawn by a few dozen lines of code. The room tone, if you
+     switch it on, is synthesised in the browser — there is no sound file.</p>
+
+  <h2>Colophon</h2>
+  <p>Set in Cormorant Garamond and Inter. Built as a static site and hosted on
+     GitHub Pages. Corrections and additions are welcome in the repository's
+     issue tracker.</p>
+</div>
+<div class="vignette"></div>
+<div class="grain"></div>
+</body>
+</html>

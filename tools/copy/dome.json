@@ -1,0 +1,199 @@
+{
+"florence-duomo": {
+  "name": "Florence Cathedral",
+  "place": "Florence, Italy",
+  "dates": "1296 — 1436",
+  "style": "Italian Gothic, crowned by the Renaissance",
+  "tagline": "They built a cathedral with a hole in the roof for fifty years, because nobody yet knew how to close it.",
+  "history": [
+    "Santa Maria del Fiore was begun in 1296 and, with characteristic Florentine ambition, designed with a crossing 45 metres across — wider than anything vaulted since Roman antiquity. The technique for closing it did not exist. The city built the rest of the church anyway and left the octagon open to the weather, on the confident assumption that someone would work it out.",
+    "In 1418 the wool guild ran a competition. Filippo Brunelleschi, a goldsmith who had spent years in Rome measuring ancient ruins, won it — reportedly after refusing to explain his method and instead challenging his rivals to stand an egg on end, then cracking its base on the table. He was appointed in 1420, in harness with his old rival Lorenzo Ghiberti, whom he eventually manoeuvred out by feigning illness and letting the work stall.",
+    "The dome was closed in 1436 and the lantern completed after his death. It remains the largest masonry dome ever built. Brunelleschi is buried beneath the floor of the cathedral — a rare honour, and the only architect so treated there."
+  ],
+  "architecture": [
+    "The problem was centering. A dome of that span would normally be built over a timber framework, and no forest in Tuscany could supply timber to bridge 45 metres. Brunelleschi's answer was to build without any: a dome that supported itself at every stage of construction.",
+    "He did it with a package of ideas. Two shells — a thick inner one doing the work, a lighter outer one shedding rain — braced by ribs and joined by a stair between them. Herringbone brickwork, in which vertical bricks are set at intervals among the horizontal courses, so each ring locks and cannot slide inward before the mortar sets. And four hoops of sandstone beams cramped with iron, plus a chain of oak, acting as tension rings around the base to stop the dome spreading.",
+    "He also had to invent the means of building it: a reversible ox-hoist that could raise and lower loads without unhitching the animals, a rotating crane for placing stone at height, and canteens set up on the scaffolding so masons would not waste an hour climbing down for lunch. Beside it stands Giotto's campanile, and opposite, Ghiberti's bronze Baptistery doors, which Michelangelo said were fit to be the Gates of Paradise."
+  ],
+  "facts": [
+    {"k":"Cathedral begun","v":"1296"},
+    {"k":"Dome built","v":"1420 — 1436"},
+    {"k":"Span","v":"45.5 m — the largest masonry dome ever"},
+    {"k":"Height to lantern","v":"114.5 m"},
+    {"k":"Bricks","v":"About 4 million"},
+    {"k":"Built with","v":"No centering, by double shell and herringbone bond"}
+  ],
+  "look": [
+    "Herringbone brickwork, visible in the stair between the two shells",
+    "The stone-and-iron chains hooping the base against spreading",
+    "The lantern, designed by Brunelleschi and finished after his death",
+    "Vasari's Last Judgement covering 3,600 m² of the dome's inner face"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+},
+
+"st-peters": {
+  "name": "St Peter's Basilica",
+  "place": "Vatican City",
+  "dates": "1506 — 1626",
+  "style": "Renaissance and Baroque",
+  "tagline": "A hundred and twenty years, a dozen architects, one dome by Michelangelo, and a colonnade that reaches out like two arms.",
+  "history": [
+    "The old basilica, built by Constantine in the fourth century over what was believed to be the apostle's grave, was falling down. In 1506 Julius II had it demolished — an act that shocked contemporaries — and laid the first stone of a replacement designed by Donato Bramante as a Greek cross under a great dome.",
+    "Then came a century of revisions. Raphael lengthened it into a Latin cross; Antonio da Sangallo redesigned it again; in 1547 Michelangelo, aged seventy-two, took over, returned to Bramante's centralised plan and designed the dome. He worked on it unpaid until his death in 1564. Giacomo della Porta completed the dome in 1590, steepening its profile.",
+    "The final act was Baroque. Carlo Maderno added a nave and façade between 1607 and 1615, restoring the Latin cross, and Gian Lorenzo Bernini spent decades furnishing the interior and, from 1656, laying out the piazza. The building was consecrated in 1626, one thousand three hundred years to the year after the first basilica."
+  ],
+  "architecture": [
+    "The dome is the centre of everything. Michelangelo's design draws on Brunelleschi's — a double shell with sixteen ribs — but stands on a drum ringed with paired columns, so the whole thing appears to be lifted rather than merely closed. It is 41.5 metres across, 136.6 metres to the top of the cross inside, and it is held by iron chains, several of which had to be added in the 1740s when cracks appeared. Around its base runs Christ's promise to Peter, in letters two metres tall.",
+    "Scale is handled by deliberate deception. The building is so large that ordinary cues fail: the cherubs holding the holy water stoups are nearly two metres tall, and they read as babies. Markers set into the nave floor show the lengths of the world's other great churches, all of them finishing short.",
+    "Bernini's contributions give it its drama. The baldachin over the altar, twenty-nine metres of twisted bronze columns cast partly from metal stripped off the Pantheon's portico, occupies the space beneath the dome without blocking it. The Cathedra Petri behind it turns a window of yellow alabaster into a burst of gilt light. And outside, the piazza's four-deep colonnade of 284 columns encloses the square in an oval that Bernini described as the arms of the Church, open to receive the world."
+  ],
+  "facts": [
+    {"k":"Built","v":"1506 — 1626"},
+    {"k":"Architects","v":"Bramante, Raphael, Sangallo, Michelangelo, Maderno, Bernini"},
+    {"k":"Dome span","v":"41.5 m; 136.6 m to the top"},
+    {"k":"Interior length","v":"186 m"},
+    {"k":"Baldachin","v":"Bernini, 1623 — 1634, 29 m tall"},
+    {"k":"Colonnade","v":"284 columns, 1656 — 1667"}
+  ],
+  "look": [
+    "The dome from inside the drum, ribbed and chained against its own spread",
+    "Cherubs the size of adults, quietly resetting your sense of scale",
+    "Bernini's baldachin, cast partly from the Pantheon's bronze",
+    "The nave floor markers showing where every rival church would end"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica"
+},
+
+"chambord": {
+  "name": "Château de Chambord",
+  "place": "Loir-et-Cher, France",
+  "dates": "1519 — 1547",
+  "style": "French Renaissance",
+  "tagline": "A hunting lodge with 440 rooms, a double-helix staircase, and a roofline that is a small Italian town in the air.",
+  "history": [
+    "François I began it in 1519, aged twenty-five, in the middle of a marsh in the largest enclosed park in Europe — a wall thirty-two kilometres long, enclosing an area the size of inner Paris. Officially it was a hunting lodge. Actually it was a statement of what a French king had become after his Italian campaigns.",
+    "He used it for perhaps seven weeks in his whole life. It had no permanent furniture; when the court came, thousands of servants brought tapestries, beds and plate, and took them away again. Twelve hundred to eighteen hundred workmen built it over twenty-eight years, and the work was still unfinished at his death.",
+    "Leonardo da Vinci spent his last three years as François' guest a few miles away at Amboise, and died in 1519, the year building began. Whether he had a hand in the design is disputed and unprovable — but the staircase is exactly the kind of thing he drew."
+  ],
+  "architecture": [
+    "The plan is medieval in bones and Renaissance in flesh: a keep with four round towers, wrapped in a larger enclosure — but organised on a strict symmetry, with four identical apartments in a Greek cross around a central stair, an arrangement borrowed from Italian villa theory and never before used at this scale in France.",
+    "The stair itself is the famous thing: a double helix, two spirals winding around a hollow central core, so that two people can climb it at once, glimpse each other through the openings, and never meet. It runs from the ground to the roof terrace, and lit from above through the lantern.",
+    "And then the roof. Above the pure geometry of the plan explodes a townscape of chimneys, dormers, turrets and lanterns, 282 fireplaces' worth, inlaid with slate in the black-and-white patterns of Italian marble. The court came up here to watch the hunt returning across the park. Chateaubriand said it looked like a woman whose hair had been blown about by the wind."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1519, for François I"},
+    {"k":"Rooms","v":"440; fireplaces 282; staircases 84"},
+    {"k":"Double-helix stair","v":"Two spirals that never meet"},
+    {"k":"Park","v":"5,440 ha, walled — the largest in Europe"},
+    {"k":"Used by François I","v":"For about seven weeks in total"},
+    {"k":"Status","v":"UNESCO World Heritage, 1981"}
+  ],
+  "look": [
+    "The double-helix stair, seen from the bottom looking straight up",
+    "A Greek-cross plan with four identical apartments — Italian theory, French stone",
+    "The roof terrace: chimneys and lanterns laid out like a small town",
+    "Slate inlays imitating the coloured marbles of Italy"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord"
+},
+
+"st-pauls": {
+  "name": "St Paul's Cathedral",
+  "place": "London, England",
+  "dates": "1675 — 1710",
+  "style": "English Baroque",
+  "tagline": "Built in one man's working life after the city burned, with a dome that is three domes pretending to be one.",
+  "history": [
+    "Old St Paul's — a vast medieval cathedral with the tallest spire in Europe until lightning took it in 1561 — was destroyed in the Great Fire of September 1666. Christopher Wren, an astronomer turned architect, had already been advising on its repair. Within days of the fire he submitted a plan for rebuilding the entire city. That was rejected; the cathedral was not.",
+    "Getting the design through took years. Wren's favourite, the Great Model of 1673 — a Greek cross under a dome, no nave — was rejected by clergy who wanted a conventional English cathedral with a long choir. He wept, reportedly. The compromise, the Warrant Design of 1675, was approved with a clause allowing him to make 'ornamental' variations. He used it to build something quite different from what had been signed off.",
+    "It went up between 1675 and 1710, the only English cathedral to be built in a single lifetime by a single architect. Wren, aged seventy-eight, was hoisted up in a basket to inspect the work. He is buried in the crypt beneath a slab that says, in Latin: <i>Reader, if you seek his monument, look around you.</i>"
+  ],
+  "architecture": [
+    "The dome is a structural conjuring trick in three parts. What you see from inside is a shallow brick dome with an opening at the crown. What you see from outside is a taller lead-covered timber dome, shaped for the skyline. Between them, doing all the work and visible to neither, is a brick cone that carries the 850-tonne stone lantern. Wren needed the outside to look right and the inside to feel right, and the two shapes were incompatible — so he built both, and hid the real structure between them.",
+    "The screen walls are the other sleight of hand. The upper storey around the aisles is a false wall with nothing behind it: it conceals the flying buttresses, which Wren considered a Gothic embarrassment, and gives the exterior the massive classical bulk it needs.",
+    "In the dome's base runs the Whispering Gallery, where a murmur against the wall travels the full 34 metres around the curve and arrives audible on the far side — a consequence of the geometry that Wren, as a scientist, understood perfectly well. During the Blitz a volunteer Watch slept in the cathedral to smother incendiaries; on 29 December 1940 a bomb lodged in the dome structure and was dealt with, and the photograph of the dome standing above the smoke became the image the country used to describe itself."
+  ],
+  "facts": [
+    {"k":"Built","v":"1675 — 1710"},
+    {"k":"Architect","v":"Christopher Wren, one building, one lifetime"},
+    {"k":"Dome","v":"Triple — inner dome, brick cone, outer timber shell"},
+    {"k":"Height","v":"111.3 m; the tallest in London until 1963"},
+    {"k":"Lantern weight","v":"About 850 tonnes, carried by the hidden cone"},
+    {"k":"Whispering Gallery","v":"34 m across, 259 steps up"}
+  ],
+  "look": [
+    "The hidden brick cone — the dome that actually holds the lantern up",
+    "Screen walls concealing flying buttresses Wren refused to show",
+    "The Whispering Gallery, carrying a murmur right around the drum",
+    "Wren's epitaph in the crypt: look around you"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+},
+
+"karlskirche": {
+  "name": "Karlskirche",
+  "place": "Vienna, Austria",
+  "dates": "1716 — 1737",
+  "style": "Austrian Baroque",
+  "tagline": "A church built as a thank-offering for the end of a plague, quoting Rome, Greece, Trajan and Constantinople all at once.",
+  "history": [
+    "The plague of 1713 killed some eight thousand Viennese. Emperor Charles VI vowed a church to his name-saint, Charles Borromeo — the archbishop of Milan who had ministered to plague victims a century and a half earlier. A competition was held in 1716 and won by Johann Bernhard Fischer von Erlach, the architect who had largely invented the Austrian Baroque.",
+    "He died in 1723 with the shell incomplete, and his son Joseph Emanuel finished it by 1737, simplifying some details. It was built on what was then open ground outside the city walls, deliberately placed on the axis of the imperial palace so that the Hofburg looked directly at it.",
+    "It survived the wars intact. From the late twentieth century a lift and a scaffold platform have been kept inside the dome, so visitors can ride up to within a few metres of the frescoes — a rare chance to look at Baroque ceiling painting from the painter's distance rather than the worshipper's."
+  ],
+  "architecture": [
+    "Fischer von Erlach had written a book — the first comparative history of world architecture ever published — and the Karlskirche is that book built. A Greek temple portico for antiquity. An oval dome on a drum for Roman and Renaissance Christendom. Low bell towers with Chinese-influenced roofs at the corners. And, flanking the portico, two enormous free-standing columns carved with spiral reliefs, quoting Trajan's Column in Rome.",
+    "The columns are the argument. They show the life of Borromeo winding upward, they stand for constancy and fortitude, and they recall the Pillars of Hercules that appeared on the Habsburg device — so the front of the church says, simultaneously, that the emperor is heir to Rome and guardian of Christendom. Nothing about it is accidental.",
+    "Inside, the plan is a longitudinal oval, so the space feels held rather than long. The dome fresco by Johann Michael Rottmayr shows Borromeo interceding for the city, painted with the perspective distortions needed to make it read correctly from the floor — which is exactly what the lift lets you check."
+  ],
+  "facts": [
+    {"k":"Built","v":"1716 — 1737"},
+    {"k":"Architect","v":"J. B. Fischer von Erlach, completed by his son"},
+    {"k":"Occasion","v":"The plague of 1713"},
+    {"k":"Dome","v":"Oval, 72 m high"},
+    {"k":"Columns","v":"Two, after Trajan's Column in Rome"},
+    {"k":"Fresco","v":"J. M. Rottmayr, 1725 — 1730"}
+  ],
+  "look": [
+    "Four architectures on one façade: Greek, Roman, Baroque and further east",
+    "The spiral reliefs winding up the two free-standing columns",
+    "An oval plan — the room gathers around you rather than leading you on",
+    "The dome lift, which puts you at the fresco's own distance"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Karlskirche"
+},
+
+"melk": {
+  "name": "Melk Abbey",
+  "place": "Wachau, Austria",
+  "dates": "1702 — 1746",
+  "style": "Austrian Baroque",
+  "tagline": "A Benedictine monastery on a rock over the Danube, three hundred metres long, gold from end to end.",
+  "history": [
+    "Benedictines have held the rock at Melk since 1089, when a margrave gave them his castle. The abbey accumulated a library, a school and nine hundred years of continuous occupation — it has never once been dissolved, and it is still a working monastery with a school of nearly nine hundred pupils.",
+    "In 1702 Abbot Berthold Dietmayr commissioned Jakob Prandtauer to rebuild the whole complex in the modern manner. It took forty-four years, cost a fortune, and drew criticism at the time for extravagance — the abbot's answer was that the house of God on the Danube should be visible from the river.",
+    "It very nearly did not survive. A fire in 1738 gutted much of the new work, and it was rebuilt again. Napoleon used it as headquarters in 1805 and 1809. In Umberto Eco's <i>The Name of the Rose</i>, the narrator is Adso of Melk, and the library here is part of why."
+  ],
+  "architecture": [
+    "The genius of the plan is the site. Prandtauer set the church at the western tip of the rock and ran two long wings out to embrace it, ending in a curved terrace-bridge slung between them — so the whole 320-metre building presents, from the river, a single composition with the church rising out of the middle and nothing behind it but sky.",
+    "The church interior is Baroque at full volume: a barrel-vaulted nave in ochre and gold, side chapels behind a screen of pilasters, and a dome fresco by Johann Michael Rottmayr. Antonio Beduzzi designed the decorative scheme, and Paul Troger painted the frescoes in the library and marble hall.",
+    "The library is the reason many people come. Twelve rooms hold about 100,000 volumes, including 1,888 manuscripts and 750 incunabula; the main hall is lined in warm woodwork with a Troger ceiling and hidden spiral staircases behind false bookcases. Next door, the Marble Hall's ceiling is painted to look as though the room opens through a balustrade into open sky — a flat surface pretending, very convincingly, to be a hole."
+  ],
+  "facts": [
+    {"k":"Monastery founded","v":"1089"},
+    {"k":"Rebuilt","v":"1702 — 1746, by Jakob Prandtauer"},
+    {"k":"Length","v":"About 320 m along the rock"},
+    {"k":"Library","v":"c. 100,000 volumes; 1,888 manuscripts"},
+    {"k":"Frescoes","v":"Rottmayr and Paul Troger"},
+    {"k":"Status","v":"UNESCO World Heritage (Wachau), 2000"}
+  ],
+  "look": [
+    "The curved terrace-bridge closing the composition above the Danube",
+    "The Marble Hall ceiling, flat but painted as an opening to the sky",
+    "Spiral stairs hidden behind false bookcases in the library",
+    "Gold and ochre everywhere — Baroque without a single quiet corner"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Melk_Abbey"
+}
+}

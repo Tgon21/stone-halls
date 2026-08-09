@@ -1,0 +1,199 @@
+{
+"krak": {
+  "name": "Krak des Chevaliers",
+  "place": "Homs Gap, Syria",
+  "dates": "1142 — 1271",
+  "style": "Crusader concentric castle",
+  "tagline": "Two rings of wall on a spur above the only road from the coast to the interior — held by two thousand knights, and taken in the end by a forged letter.",
+  "history": [
+    "The site guards the Homs Gap, the single easy pass between the Mediterranean coast and the Syrian interior — which made it one of the most strategically valuable pieces of ground in the medieval Levant. In 1142 the count of Tripoli handed it to the Knights Hospitaller, a military order with the money and the manpower to build without limit.",
+    "They rebuilt it twice, the second time after an earthquake in 1202, into the most sophisticated fortress of its age. It held a garrison of around two thousand and stores enough for a five-year siege. Saladin looked at it in 1188 and marched on. It survived at least a dozen investments.",
+    "It fell in 1271 to the Mamluk sultan Baybars, and not by force. After a month's bombardment took the outer ward, the surviving garrison withdrew into the keep, where they could have held out for a long time. Baybars sent in a letter, purportedly from the Hospitaller commander in Tripoli, ordering surrender. It was almost certainly forged. They surrendered, and were allowed to walk out."
+  ],
+  "architecture": [
+    "Krak is the textbook concentric castle: a complete ring of wall inside another complete ring, so that an attacker who takes the outer circuit finds himself in a killing ground overlooked from above at close range, with nowhere to bring up siege engines.",
+    "The inner ward's south face is protected by a talus — a vast sloping apron of masonry up to twenty-five metres thick at the base. It does three jobs at once: it defeats mining, it stiffens the wall against earthquake, and anything dropped from the parapet ricochets off it outward into the attackers.",
+    "The single entrance is a vaulted ramp that climbs, turns back on itself through 180 degrees, and passes a series of gates and murder-holes — a horse can make it, but never at speed and never in a straight line. Inside, the architecture turns startlingly civil: a Gothic loggia of French quality, carved with the inscription <i>Sit tibi copia, sit sapientia, formaque detur; inquinat omnia sola superbia si comitetur</i> — have wealth, wisdom and beauty, but beware pride, which spoils all. T. E. Lawrence, who visited as a student, called it the finest castle in the world."
+  ],
+  "facts": [
+    {"k":"Given to the Hospitallers","v":"1142"},
+    {"k":"Rebuilt","v":"after the earthquake of 1202"},
+    {"k":"Garrison","v":"About 2,000"},
+    {"k":"Talus","v":"Up to 25 m thick at the base"},
+    {"k":"Fell","v":"1271, to Baybars — reportedly by forged letter"},
+    {"k":"Status","v":"UNESCO World Heritage, 2006"}
+  ],
+  "look": [
+    "Two complete rings of wall, the outer one a trap rather than a barrier",
+    "The glacis: a sloping apron of masonry that defeats both miners and earthquakes",
+    "The bent entrance ramp, hairpinning under murder-holes",
+    "The Gothic loggia inside — French cathedral masonry in a Syrian fortress"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Krak_des_Chevaliers"
+},
+
+"caernarfon": {
+  "name": "Caernarfon Castle",
+  "place": "Gwynedd, Wales",
+  "dates": "1283 — 1330",
+  "style": "Edwardian military architecture",
+  "tagline": "A conqueror's castle built to look like the walls of Constantinople, because the point was never only to be strong.",
+  "history": [
+    "After defeating Llywelyn ap Gruffudd in 1282, Edward I of England set about making the conquest of Gwynedd permanent with a ring of castles round the mountains of Snowdonia. Caernarfon, begun in 1283, was the capital of the new regime: castle, walled town and seat of government in a single operation, with the Welsh cleared out and English settlers moved in.",
+    "The master of works was James of St George, a Savoyard engineer whom Edward had met in the Alps and who built or directed most of the Welsh castles. The programme was ruinously expensive — perhaps £250,000 across all the castles, several years of royal revenue.",
+    "Edward's son, the future Edward II, was born here in 1284, and the title Prince of Wales has been attached to the place ever since; the investitures of 1911 and 1969 were staged in the ruins. The castle was never actually finished — the money ran out, and if you walk the walls you can see doorways opening into thin air where ranges were meant to go."
+  ],
+  "architecture": [
+    "Caernarfon breaks the Edwardian pattern deliberately. The other Welsh castles are round-towered and concentric; this one has polygonal towers and bands of dark stone running through the masonry. Both features quote the Theodosian Walls of Constantinople.",
+    "That was the message. Welsh legend held that the emperor Magnus Maximus had dreamed of a fort at the mouth of a river in a mountainous land, and Roman Segontium lay just up the hill. Edward was building an imperial claim in stone: not a new fort but the rightful successor of Rome in Wales. The Eagle Tower carried carved eagles for the same reason.",
+    "Militarily it is still formidable. The King's Gate, had it been completed, would have required an attacker to pass five doors and six portcullises while turning a right angle under arrow loops and murder-holes. The wall-walks are doubled in places, with a second gallery of arrow loops running inside the thickness of the wall, so three tiers of archers could shoot at once."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1283, for Edward I"},
+    {"k":"Master of works","v":"James of St George"},
+    {"k":"Towers","v":"Polygonal, with banded masonry"},
+    {"k":"King's Gate","v":"Five doors and six portcullises, as designed"},
+    {"k":"Never","v":"Fully completed"},
+    {"k":"Status","v":"UNESCO World Heritage, 1986"}
+  ],
+  "look": [
+    "Banded stone and angular towers quoting the walls of Constantinople",
+    "Doorways in the inner face opening onto nothing — ranges never built",
+    "Galleries of arrow loops stacked inside the wall thickness",
+    "The Eagle Tower, with its imperial birds on the battlements"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Caernarfon_Castle"
+},
+
+"conwy": {
+  "name": "Conwy Castle",
+  "place": "Conwy, Wales",
+  "dates": "1283 — 1287",
+  "style": "Edwardian military architecture",
+  "tagline": "Eight towers on a rock, a walled town attached, and the whole thing built in four building seasons.",
+  "history": [
+    "Conwy went up as part of the same campaign as Caernarfon, and at a speed that is still hard to credit: castle and town walls, essentially complete, in four years between 1283 and 1287. At peak, something like 1,500 men were on site. It cost about £15,000, an enormous sum — perhaps a fifth of the entire Welsh castle programme.",
+    "The site is a rock outcrop where the Conwy estuary narrows, so the sea could supply the garrison even under siege. Edward himself was trapped here in the winter of 1294–95 during a Welsh revolt, cut off and rationed, until the fleet arrived.",
+    "In 1401, while the garrison was at church on Good Friday, two Welshmen took the castle for Owain Glyndŵr's rebellion with a party of about forty. Holding it was another matter; it was negotiated back within months."
+  ],
+  "architecture": [
+    "Where Caernarfon argues, Conwy simply works. The plan is dictated entirely by the rock: a long rectangle with eight almost identical drum towers, divided by a cross-wall into an outer ward for the garrison and an inner ward for the king. If the outer ward fell, the inner was a separate castle with its own gate, well and water gate to the sea.",
+    "The four inner towers carry slender turrets, which is where the royal apartments were — the most intact suite of medieval royal rooms in England or Wales. The great hall's roof was carried on eight stone arches, one of which still stands.",
+    "The town wall is the other half of the design and survives almost entire: 1.3 kilometres of curtain with twenty-one towers and three twin-towered gates, encircling the settlement. Castle and town were built as one fortified object. There is even a row of twelve garderobe chutes projecting from the wall, built for the town's officials — medieval municipal plumbing, still visible."
+  ],
+  "facts": [
+    {"k":"Built","v":"1283 — 1287, in four seasons"},
+    {"k":"Cost","v":"About £15,000"},
+    {"k":"Towers","v":"8 on the castle; 21 on the town wall"},
+    {"k":"Town wall","v":"1.3 km, essentially complete"},
+    {"k":"Master of works","v":"James of St George"},
+    {"k":"Status","v":"UNESCO World Heritage, 1986"}
+  ],
+  "look": [
+    "The cross-wall making two castles out of one",
+    "The surviving stone arch of the great hall roof",
+    "Royal apartments in the inner ward — the best preserved of their kind",
+    "Twelve garderobe chutes hanging off the town wall"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Conwy_Castle"
+},
+
+"carcassonne": {
+  "name": "Cité de Carcassonne",
+  "place": "Languedoc, France",
+  "dates": "Roman — 13th c.; restored from 1853",
+  "style": "Roman, Visigothic, medieval — and Viollet-le-Duc",
+  "tagline": "Three kilometres of double walls and fifty-two towers, half of it genuinely medieval and half of it a nineteenth-century argument about what medieval meant.",
+  "history": [
+    "The hill has been fortified since the Romans, whose towers still form the lower courses of the inner wall. It passed through Visigoths and Saracens to the viscounts of Trencavel, who held it when the Albigensian Crusade arrived in 1209. The city surrendered after a fortnight without water; the viscount died in his own dungeon three months later.",
+    "The French crown then made it a frontier fortress against Aragon and built the outer ring of walls, creating the double enceinte. When the frontier moved south in 1659 the fortress became militarily pointless. By the 1840s it was a slum inside crumbling walls, and the government proposed demolition.",
+    "Local campaigning saved it, and in 1853 Viollet-le-Duc began a restoration that lasted, through his death, until 1910. He rebuilt the towers with pointed conical roofs in slate — northern French practice, in a region that roofs in flat red tile. Critics have argued about it ever since. Whatever it is, it is the reason the place is still standing."
+  ],
+  "architecture": [
+    "The strength is in the doubling. Two concentric curtain walls, with a wide open lists between them: an attacker who breaches the outer wall finds himself in a corridor swept from both sides, unable to bring engines against the inner wall. Fifty-two towers stud the circuit, most of them open-backed so that if one were taken it could not be held.",
+    "The masonry is a lesson in stratigraphy. Look at the inner wall's north side and you can read Roman work at the bottom — small squared blocks with brick bonding courses — then Visigothic, then twelfth- and thirteenth-century medieval above, then Viollet-le-Duc's restoration on top, each with its own texture.",
+    "The Château Comtal inside is a castle within the fortress, with its own moat and barbican, so the lord could hold out against his own city. And the Porte Narbonnaise, the main gate, is a full defensive sequence: a bridge, a barbican, two towers with a beaked front designed to deflect missiles, a portcullis, a killing chamber, then another gate."
+  ],
+  "facts": [
+    {"k":"Walls","v":"Two rings, about 3 km in total"},
+    {"k":"Towers","v":"52"},
+    {"k":"Roman fabric","v":"Visible in the lower inner wall"},
+    {"k":"Outer wall","v":"13th century, after the Albigensian Crusade"},
+    {"k":"Restored","v":"1853 — 1910, begun by Viollet-le-Duc"},
+    {"k":"Status","v":"UNESCO World Heritage, 1997"}
+  ],
+  "look": [
+    "The lists — the open corridor between the two walls, a deliberate trap",
+    "Roman brick-banded masonry surviving in the lower courses",
+    "Open-backed towers: take one and you still have nothing",
+    "The controversial slate cones, northern roofs on a southern town"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne"
+},
+
+"malbork": {
+  "name": "Malbork Castle",
+  "place": "Malbork, Poland",
+  "dates": "1274 — 1406",
+  "style": "Brick Gothic",
+  "tagline": "The largest castle on earth by area, built of brick by a monastic army, with underfloor heating and a vault that stands on one pillar.",
+  "history": [
+    "The Teutonic Knights were a crusading order who, having lost their footing in the Holy Land, conquered the pagan Baltic coast and set up a state of their own. From 1309 Malbork — then Marienburg — was its capital, and the residence of the Grand Master. They kept building for a century, until it covered some twenty-one hectares.",
+    "In 1410 the Order lost the battle of Grunwald, one of the largest engagements of medieval Europe, and a Polish-Lithuanian army besieged the castle. It held. The Order's decline was financial rather than military: in 1457 unpaid Bohemian mercenaries sold the castle to the king of Poland, and it became a Polish royal residence.",
+    "The nineteenth century restored it as a symbol of German nationhood; in 1945 the fighting for the town destroyed roughly half of it. The rebuilding since, largely by Polish conservators using the meticulous nineteenth-century survey drawings, is one of the great restoration projects of the last century."
+  ],
+  "architecture": [
+    "There is no building stone in the Vistula delta, so it is built of brick — millions of them, in the sharp, spare idiom that northern Europe developed when it had to build Gothic out of clay. Ornament comes from patterned bonding, glazed headers and moulded brick, not from carving.",
+    "It is really three castles in sequence, each defensible against the last: the Lower Castle with the workshops and armoury, the Middle Castle with the Grand Master's palace and guest halls, and the High Castle, a four-winged convent block around a cloister, holding the church, chapter house and dormitories of the knights themselves.",
+    "Two rooms are worth the visit alone. The Grand Refectory carries a vast net vault on slender granite pillars, and the Grand Master's Summer Refectory spreads its entire vault from a single central pillar — a piece of confidence so provocative that legend says a besieger fired a cannonball at the pillar to bring it down, and missed. The whole complex was heated by hypocausts, hot air ducted under stone floors from furnaces below, in fourteenth-century Prussia."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1274; capital of the Order from 1309"},
+    {"k":"Area","v":"About 21 hectares — the largest castle by land area"},
+    {"k":"Material","v":"Brick, several million of them"},
+    {"k":"Structure","v":"Three castles in sequence"},
+    {"k":"Heating","v":"Hypocaust — warm air under the floors"},
+    {"k":"Status","v":"UNESCO World Heritage, 1997"}
+  ],
+  "look": [
+    "The Summer Refectory's whole vault spreading from one granite pillar",
+    "Brick decoration by bonding and glaze, since there is no stone to carve",
+    "Three successive castles, each defensible against the one before",
+    "Hypocaust chambers under the floors, still visible"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Malbork_Castle"
+},
+
+"alcazar-segovia": {
+  "name": "Alcázar of Segovia",
+  "place": "Segovia, Spain",
+  "dates": "12th c. — 1587; rebuilt 1882",
+  "style": "Mudéjar and Gothic",
+  "tagline": "A ship of stone on a rock where two rivers meet, with ceilings that are Islamic craft in a Christian palace.",
+  "history": [
+    "The rock at the confluence of the Eresma and Clamores was fortified by the Romans and the Moors; the Christian kings of Castile turned it into a palace-fortress from the twelfth century. Alfonso X, John II and Henry IV all built here, and in 1474 Isabella walked out of this gate to be proclaimed Queen of Castile in the square below.",
+    "Philip II gave it the steep slate spires in 1587, imported from central Europe with the Habsburg taste. Afterwards it slid down the scale of usefulness: state prison, then, from 1762, the Royal Artillery College.",
+    "In 1862 a fire — probably started by cadets — gutted the palace and destroyed most of the ceilings. Rebuilding began twenty years later, restoring the Mudéjar interiors from drawings and surviving fragments. The building you visit is genuinely medieval in fabric and largely nineteenth-century in surface."
+  ],
+  "architecture": [
+    "The plan is set by the rock: a long, narrow wedge running out to a point, with the keep at the wide end and the prow at the sharp one, a hundred metres above the valley. From below it reads unmistakably as the bow of a ship. A dry moat and drawbridge close the only landward approach.",
+    "Inside, the architecture is Mudéjar — Christian patronage, Muslim craftsmanship. The Hall of the Kings carries a gilded frieze of the fifty-two monarchs of Asturias, León and Castile; the Hall of the Pineapples takes its name from the 392 pine-cone bosses hanging from its ceiling. These are coffered timber ceilings, <i>artesonado</i>, geometry worked in wood by craftsmen trained in an Islamic tradition.",
+    "The Tower of John II, added in the fifteenth century, is banded with twelve small round turrets and a machicolated crown — decorative militarism, by then. Together the sheer walls, the pointed slate roofs and the prow made the silhouette that has been redrawn in storybooks ever since."
+  ],
+  "facts": [
+    {"k":"Fortified","v":"Roman, Moorish, then Castilian from the 12th c."},
+    {"k":"Spires","v":"Added 1587 under Philip II"},
+    {"k":"Artillery College","v":"From 1762"},
+    {"k":"Fire","v":"1862; rebuilt from 1882"},
+    {"k":"Pineapple Hall","v":"392 carved pine-cone bosses"},
+    {"k":"Status","v":"UNESCO World Heritage (Segovia), 1985"}
+  ],
+  "look": [
+    "The prow: the whole castle narrows to a point above the river junction",
+    "Artesonado ceilings — Islamic geometry in a Castilian throne room",
+    "The Hall of Kings and its gilded frieze of fifty-two monarchs",
+    "The Tower of John II, ringed with twelve small turrets"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Segovia"
+}
+}

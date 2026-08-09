@@ -1,0 +1,9 @@
+{
+"romanesque":  ["durham", "speyer", "pisa", "santiago", "vezelay"],
+"gothic-dawn": ["saint-denis", "notre-dame", "canterbury", "laon", "wells", "salisbury"],
+"high-gothic": ["chartres", "reims", "amiens", "bourges", "sainte-chapelle", "beauvais"],
+"castle":      ["krak", "caernarfon", "conwy", "carcassonne", "malbork", "alcazar-segovia"],
+"late-gothic": ["milan", "kings-college", "gloucester", "st-vitus", "seville", "batalha"],
+"dome":        ["florence-duomo", "st-peters", "chambord", "st-pauls", "karlskirche", "melk"],
+"echo":        ["cologne", "westminster-palace", "neuschwanstein", "sagrada-familia", "grundtvig", "liverpool-metropolitan"]
+}

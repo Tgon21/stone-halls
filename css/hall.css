@@ -1,0 +1,260 @@
+/* ─────────────────────────────────────────────────────────────
+   The hall — a CSS 3-D corridor you walk through
+   1 unit = 1 cm.  Camera eye height sits at world y = 0.
+   ───────────────────────────────────────────────────────────── */
+
+.viewport {
+  position: fixed; inset: 0;
+  overflow: hidden;
+  perspective: 820px;
+  perspective-origin: 50% 50%;
+  background: #050507;
+  cursor: grab;
+  touch-action: none;
+}
+.viewport.dragging { cursor: grabbing; }
+.viewport.pointing { cursor: pointer; }
+
+.world {
+  position: absolute; left: 50%; top: 50%;
+  width: 0; height: 0;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.plane, .frame, .sconce, .banner, .endwall {
+  position: absolute; left: 0; top: 0;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+/* ── architecture planes ───────────────────────────────────── */
+.plane { background-repeat: repeat; background-position: center top; }
+
+.plane--wall  { background-color: #14120f; }
+.plane--floor { background-color: #0d0c0b; }
+.plane--ceil  { background-color: #0a090c; }
+
+/* dark falloff painted straight onto the long planes so depth reads */
+.plane__falloff {
+  position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(90deg,
+    rgba(4,4,6,0) 0%, rgba(4,4,6,.55) 46%, rgba(4,4,6,.88) 78%, rgba(4,4,6,.97) 100%);
+}
+
+/* ── a hung work ───────────────────────────────────────────── */
+.frame {
+  --f: 0;                       /* fog amount, written by the walk loop */
+  cursor: pointer;
+}
+.frame__inner {
+  position: relative;
+  border: 3px solid transparent;
+  border-image: linear-gradient(150deg,#6b5624,#d8bb62 22%,#8a6f2c 46%,#f0dc9a 62%,#5e4a1d) 1;
+  background: #0b0a09;
+  box-shadow:
+    0 2px 3px rgba(0,0,0,.7),
+    0 22px 60px rgba(0,0,0,.85),
+    inset 0 0 0 1px rgba(0,0,0,.6),
+    inset 0 0 40px rgba(0,0,0,.55);
+  overflow: hidden;
+}
+.frame__mat { position: absolute; inset: 0; padding: 0; }
+.frame img {
+  width: 100%; height: 100%;
+  object-fit: cover; display: block;
+  filter: saturate(.9) contrast(1.04);
+}
+/* a warm gallery-lamp wash falling from above the canvas */
+.frame__light {
+  position: absolute; inset: 0; pointer-events: none;
+  background:
+    linear-gradient(180deg, rgba(255,196,124,.20), rgba(255,170,90,.05) 34%, rgba(0,0,0,.18) 78%, rgba(0,0,0,.42));
+  mix-blend-mode: soft-light;
+}
+.frame__glass {
+  position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(102deg, rgba(255,255,255,.10) 0 18%, rgba(255,255,255,0) 42%);
+  opacity: .5;
+}
+.frame__fog {
+  position: absolute; inset: -4px; pointer-events: none;
+  background: #05050a;
+  opacity: var(--f);
+}
+
+.frame__plaque {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  top: calc(100% + 16px);
+  width: 84%;
+  text-align: center;
+  padding: 9px 10px 10px;
+  background: linear-gradient(180deg, #241d13, #17120c);
+  border: 1px solid rgba(201,162,39,.34);
+  box-shadow: 0 8px 22px rgba(0,0,0,.7);
+}
+.frame__plaque b {
+  display: block;
+  font-family: var(--serif); font-weight: 600;
+  font-size: 27px; line-height: 1.08; letter-spacing: .012em;
+  color: #f6ecd6;
+}
+.frame__plaque i {
+  display: block; font-style: normal; margin-top: 5px;
+  font-family: var(--sans); font-size: 11px; letter-spacing: .24em;
+  text-transform: uppercase; color: rgba(201,162,39,.85);
+}
+
+.frame::after {                     /* hover halo */
+  content: ""; position: absolute; inset: -18px;
+  border: 1px solid rgba(224,194,101,0);
+  transition: border-color .35s var(--ease), box-shadow .35s var(--ease);
+  pointer-events: none;
+}
+.frame.hot::after {
+  border-color: rgba(224,194,101,.5);
+  box-shadow: 0 0 60px rgba(255,183,101,.22), inset 0 0 40px rgba(255,183,101,.1);
+}
+
+/* companion panel — the smaller facing plate */
+.frame--minor .frame__plaque b { font-size: 20px }
+
+/* ── sconces ───────────────────────────────────────────────── */
+.sconce {
+  width: 46px; height: 46px; margin: -23px 0 0 -23px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 42%, #ffe0ac, #ff9d3c 26%, rgba(255,140,40,.32) 52%, transparent 72%);
+  filter: blur(1.5px);
+  animation: flicker 3.6s ease-in-out infinite;
+}
+.sconce__glow {
+  position: absolute; left: 50%; top: 50%;
+  width: 340px; height: 340px; margin: -170px 0 0 -170px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,166,80,.30), rgba(255,140,40,.10) 42%, transparent 70%);
+  pointer-events: none;
+}
+@keyframes flicker {
+  /* opacity only — a transform here would override the 3-D placement */
+  0%,100% { opacity: .92 }
+  38% { opacity: .72 }
+  55% { opacity: 1 }
+  72% { opacity: .8 }
+}
+
+/* ── the far end: rose window over the epigraph ────────────── */
+.endwall { text-align: center; }
+.endwall__rose { position: absolute; left: 50%; top: 0; }
+.endwall__text {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  width: 780px;
+}
+.endwall__text h2 {
+  font-family: var(--serif); font-weight: 300; font-style: italic;
+  font-size: 46px; line-height: 1.32; margin: 0;
+  color: rgba(226,206,166,.62);
+  text-shadow: 0 0 34px rgba(255,180,100,.22);
+}
+.endwall__text p {
+  margin: 22px 0 0;
+  font-family: var(--sans); font-size: 13px; letter-spacing: .34em;
+  text-transform: uppercase; color: rgba(201,162,39,.5);
+}
+
+/* ── heads-up chrome ───────────────────────────────────────── */
+.hud {
+  position: fixed; inset: 0; z-index: 500;
+  pointer-events: none;
+}
+.hud > * { pointer-events: auto; }
+
+.hud__top {
+  position: absolute; top: 0; left: 0; right: 0;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 20px; padding: 20px 26px;
+  background: linear-gradient(180deg, rgba(5,5,8,.9), rgba(5,5,8,0));
+}
+.hud__back {
+  display: inline-flex; align-items: center; gap: 10px;
+  font-size: 11px; letter-spacing: .2em; text-transform: uppercase;
+  color: var(--ink-dim); text-decoration: none;
+  transition: color .3s var(--ease);
+}
+.hud__back:hover { color: var(--gold-soft) }
+.hud__back svg { width: 16px; height: 16px; }
+
+.hud__title { text-align: center; line-height: 1 }
+.hud__title b {
+  display: block; font-family: var(--serif); font-weight: 500;
+  font-size: 25px; letter-spacing: .06em; color: #efe6d3;
+}
+.hud__title span {
+  display: block; margin-top: 6px;
+  font-size: 10px; letter-spacing: .32em; text-transform: uppercase;
+  color: rgba(201,162,39,.72);
+}
+.hud__tools { display: flex; gap: 8px; }
+.tool {
+  width: 38px; height: 38px; display: grid; place-items: center;
+  background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.09);
+  border-radius: 2px; cursor: pointer; color: var(--ink-dim);
+  transition: all .3s var(--ease);
+}
+.tool:hover, .tool.on { color: var(--gold-soft); border-color: var(--rule); background: rgba(201,162,39,.08) }
+.tool svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.4 }
+
+/* progress rail — where you are in the hall */
+.rail {
+  position: absolute; left: 26px; top: 50%; transform: translateY(-50%);
+  width: 2px; height: 240px; background: rgba(255,255,255,.08);
+}
+.rail__fill { position: absolute; left: 0; top: 0; width: 100%; background: linear-gradient(180deg,var(--gold-soft),var(--gold)); }
+.rail__dot {
+  position: absolute; left: 50%; width: 7px; height: 7px; margin-left: -3.5px; margin-top: -3.5px;
+  border-radius: 50%; background: rgba(255,255,255,.22);
+  transition: background .3s var(--ease), transform .3s var(--ease);
+  cursor: pointer;
+}
+.rail__dot.on { background: var(--gold-soft); transform: scale(1.5) }
+
+/* footer hint + touch pads */
+.hud__foot {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  display: flex; align-items: flex-end; justify-content: center; gap: 14px;
+  padding: 24px 26px 26px;
+  background: linear-gradient(0deg, rgba(5,5,8,.86), rgba(5,5,8,0));
+}
+.keys { display: flex; align-items: center; gap: 16px; font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: var(--ink-faint) }
+.keys kbd {
+  font-family: var(--sans); font-size: 10px; letter-spacing: 0;
+  padding: 3px 7px; margin-right: 3px;
+  border: 1px solid rgba(255,255,255,.16); border-radius: 3px;
+  color: var(--ink-dim); background: rgba(255,255,255,.04);
+}
+.pads { display: none; gap: 40px; }
+.pad {
+  width: 62px; height: 62px; border-radius: 50%;
+  background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.14);
+  display: grid; place-items: center; color: var(--ink-dim);
+  -webkit-user-select: none; user-select: none;
+}
+.pad:active { background: rgba(201,162,39,.16); color: var(--gold-soft) }
+.pad svg { width: 22px; height: 22px; fill: currentColor }
+
+body.touch .keys { display: none }
+body.touch .pads { display: flex }
+
+/* entering / leaving fade */
+.curtain {
+  position: fixed; inset: 0; z-index: 950; background: #050507;
+  pointer-events: none; transition: opacity 1.1s var(--ease);
+}
+.curtain.lift { opacity: 0 }
+.curtain.drop { opacity: 1; transition-duration: .55s }
+
+@media (max-width: 720px) {
+  .hud__title b { font-size: 18px }
+  .hud__title span { font-size: 8px; letter-spacing: .24em }
+  .hud__top { padding: 14px 16px }
+  .rail { display: none }
+}

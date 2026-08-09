@@ -1,0 +1,173 @@
+/* ─────────────────────────────────────────────────────────────
+   The entrance hall — a timeline of seven doors
+   ───────────────────────────────────────────────────────────── */
+
+.stage { height: 100svh; display: flex; flex-direction: column; overflow: hidden }
+
+/* ── masthead ──────────────────────────────────────────────── */
+.mast {
+  position: relative; z-index: 3;
+  padding: clamp(26px, 5vh, 54px) 42px 0;
+  text-align: center; flex: none;
+}
+.mast__rose {
+  position: absolute; left: 50%; top: -190px; width: 620px; height: 620px;
+  margin-left: -310px; opacity: .12; pointer-events: none;
+  background-size: contain; background-repeat: no-repeat;
+  animation: turn 240s linear infinite;
+}
+@keyframes turn { to { transform: rotate(360deg) } }
+
+.mast h1 {
+  margin: 0; font-family: var(--serif); font-weight: 300;
+  font-size: clamp(34px, 6.4vw, 82px); line-height: .96;
+  letter-spacing: .02em; color: #f6efdf;
+}
+.mast h1 em {
+  display: block; font-style: normal; font-size: .36em;
+  letter-spacing: .52em; text-indent: .52em; margin-bottom: 14px;
+  color: rgba(201,162,39,.85); font-family: var(--sans); font-weight: 400;
+}
+.mast p {
+  margin: 20px auto 0; max-width: 60ch;
+  font-family: var(--serif); font-size: clamp(16px, 1.5vw, 20px);
+  font-style: italic; line-height: 1.6; color: rgba(200,190,172,.72);
+}
+
+/* ── the rail of doors ─────────────────────────────────────── */
+.tl { position: relative; flex: 1; min-height: 0; display: flex; align-items: center }
+
+.tl__track {
+  display: flex; align-items: stretch; gap: clamp(18px, 2.4vw, 42px);
+  height: 100%; padding: clamp(18px,3vh,40px) max(42px, 50vw - 620px) 0;
+  overflow-x: auto; overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.tl__track::-webkit-scrollbar { display: none }
+
+.door {
+  position: relative; flex: 0 0 auto;
+  width: clamp(232px, 25vw, 320px);
+  scroll-snap-align: center;
+  display: flex; flex-direction: column;
+  text-decoration: none; color: inherit;
+  transition: transform .7s var(--ease);
+}
+.door:hover { transform: translateY(-10px) }
+
+.door__arch {
+  position: relative; flex: 1; min-height: 0;
+  -webkit-mask-image: var(--arch); mask-image: var(--arch);
+  -webkit-mask-size: 100% 100%; mask-size: 100% 100%;
+  -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat;
+  background: #0a0a0d;
+  overflow: hidden;
+}
+.door__arch img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover;
+  filter: grayscale(.62) brightness(.5) contrast(1.1);
+  transform: scale(1.06);
+  transition: filter .9s var(--ease), transform 1.4s var(--ease);
+}
+.door:hover .door__arch img { filter: grayscale(.05) brightness(.82) contrast(1.04); transform: scale(1.12) }
+
+.door__wash {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(0deg, rgba(6,6,9,.96) 4%, rgba(6,6,9,.35) 42%, rgba(6,6,9,.55)),
+    radial-gradient(80% 50% at 50% 8%, hsla(var(--hue) 60% 60% / .22), transparent 70%);
+  transition: opacity .8s var(--ease);
+}
+.door:hover .door__wash { opacity: .74 }
+
+.door__edge {
+  position: absolute; inset: 0; pointer-events: none;
+  -webkit-mask-image: var(--arch); mask-image: var(--arch);
+  -webkit-mask-size: 100% 100%; mask-size: 100% 100%;
+  box-shadow: inset 0 0 0 1px rgba(201,162,39,.22), inset 0 0 60px rgba(0,0,0,.7);
+  transition: box-shadow .6s var(--ease);
+}
+.door:hover .door__edge { box-shadow: inset 0 0 0 1px rgba(224,194,101,.6), inset 0 0 80px rgba(255,180,100,.12) }
+
+.door__no {
+  position: absolute; top: 8%; left: 0; right: 0; text-align: center;
+  font-family: var(--serif); font-size: 15px; letter-spacing: .5em;
+  text-indent: .5em; color: rgba(201,162,39,.75);
+}
+.door__meta {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  padding: 0 20px 26px; text-align: center;
+}
+.door__years {
+  font-size: 10px; letter-spacing: .28em; text-transform: uppercase;
+  color: rgba(201,162,39,.85);
+}
+.door__title {
+  margin: 10px 0 0; font-family: var(--serif); font-weight: 400;
+  font-size: clamp(24px, 2.5vw, 33px); line-height: 1.1; color: #f4ecdb;
+}
+.door__era {
+  margin: 8px 0 0; font-size: 11px; letter-spacing: .2em;
+  text-transform: uppercase; color: var(--ink-faint);
+}
+.door__blurb {
+  margin: 14px 0 0; font-family: var(--serif); font-size: 15px; line-height: 1.55;
+  color: rgba(216,206,188,.0); max-height: 0; overflow: hidden;
+  transition: max-height .7s var(--ease), color .7s var(--ease), margin .7s var(--ease);
+}
+.door:hover .door__blurb { max-height: 10em; color: rgba(216,206,188,.82) }
+
+.door__enter {
+  display: inline-block; margin-top: 16px;
+  font-size: 9.5px; letter-spacing: .3em; text-transform: uppercase;
+  color: rgba(201,162,39,0);
+  border-bottom: 1px solid rgba(201,162,39,0);
+  padding-bottom: 4px;
+  transition: color .6s var(--ease) .1s, border-color .6s var(--ease) .1s;
+}
+.door:hover .door__enter { color: var(--gold-soft); border-color: rgba(201,162,39,.55) }
+
+/* ── the year axis ─────────────────────────────────────────── */
+.axis {
+  position: relative; flex: none;
+  height: 96px; margin: 0 max(42px, 50vw - 620px);
+  border-top: 1px solid rgba(201,162,39,.2);
+}
+.axis__tick {
+  position: absolute; top: 0; transform: translateX(-50%);
+  text-align: center; color: var(--ink-faint);
+}
+.axis__tick i {
+  display: block; width: 1px; height: 10px; margin: 0 auto 8px;
+  background: rgba(201,162,39,.4);
+}
+.axis__tick span { font-size: 10px; letter-spacing: .16em }
+.axis__span {
+  position: absolute; top: -1px; height: 3px;
+  background: linear-gradient(90deg, transparent, hsl(var(--hue) 45% 55% / .85), transparent);
+  transition: filter .4s var(--ease), height .4s var(--ease);
+}
+.axis__span.hot { height: 5px; filter: drop-shadow(0 0 8px hsl(var(--hue) 60% 60% / .8)) }
+
+/* ── footer ────────────────────────────────────────────────── */
+.foot {
+  flex: none; display: flex; justify-content: space-between; align-items: center;
+  gap: 20px; padding: 0 max(42px, 50vw - 620px) 22px;
+  font-size: 10px; letter-spacing: .2em; text-transform: uppercase;
+  color: var(--ink-faint);
+}
+.foot a { color: rgba(201,162,39,.7); text-decoration: none }
+.foot a:hover { color: var(--gold-soft) }
+.hint { display: flex; align-items: center; gap: 10px }
+.hint i { display: block; width: 26px; height: 1px; background: rgba(201,162,39,.4) }
+
+@media (max-width: 760px) {
+  .mast { padding: 26px 20px 0 }
+  .tl__track { padding-left: 20px; padding-right: 20px; gap: 16px }
+  .door { width: 74vw }
+  .axis { margin: 0 20px; height: 74px }
+  .foot { padding: 0 20px 18px; flex-direction: column; gap: 8px; text-align: center }
+}

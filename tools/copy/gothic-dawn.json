@@ -1,0 +1,199 @@
+{
+"saint-denis": {
+  "name": "Basilica of Saint-Denis",
+  "place": "Saint-Denis, France",
+  "dates": "choir 1140 — 1144",
+  "style": "The first Gothic",
+  "tagline": "An abbot with a theory about light rebuilt the east end of his church, and the wall stopped being a wall.",
+  "history": [
+    "Suger, abbot of Saint-Denis and regent of France while Louis VII was on crusade, ran the most important abbey in the kingdom: the burial church of the French monarchy and the shrine of St Denis, its patron. His problem was traffic — on feast days the crowd was so dense, he wrote, that women were carried above the heads of the crowd screaming, and the monks sometimes fled through the windows with the relics.",
+    "His solution was to rebuild. The west front went up first, then, between 1140 and 1144, the choir. The consecration was attended by the king, the queen and nineteen bishops, several of whom went home and started rebuilding their own cathedrals in the new manner. Almost every great church in the Île-de-France over the next century is downstream of those four years.",
+    "Saint-Denis became and remained the royal necropolis: some forty-three kings, thirty-two queens and dozens of princes lie here. In 1793 revolutionaries emptied the tombs into lime pits; the monuments themselves largely survived, and the bones were later gathered into an ossuary in the crypt."
+  ],
+  "architecture": [
+    "Nothing in the choir was new by itself. Pointed arches, ribbed vaults and buttresses all existed. What Suger's master mason did was use all of them at once, consistently, and follow the logic through: if the ribs carry the vault down to points, the wall between those points carries nothing, and can be glass.",
+    "So the ambulatory's radiating chapels are not separate rooms but a continuous ring of glass, their dividing walls thinned to slender piers. Standing in the ambulatory you can see straight through the whole east end. That had never been possible before.",
+    "Suger had the theology to justify it, borrowed from a mystical writer he believed to be St Denis himself: material light is an image of divine light, and the mind rises to truth through beautiful things. He had his reasoning inscribed on the doors. He called the result <i>lux nova</i> — the new light. The nave was rebuilt a century later in mature Rayonnant, so the building lets you compare the first sentence of Gothic with a much later paragraph."
+  ],
+  "facts": [
+    {"k":"Choir built","v":"1140 — 1144"},
+    {"k":"Consecrated","v":"11 June 1144"},
+    {"k":"Patron","v":"Abbot Suger"},
+    {"k":"Innovation","v":"Rib vault, pointed arch and buttress used as one system"},
+    {"k":"Royal burials","v":"43 kings, 32 queens"},
+    {"k":"Nave","v":"Rebuilt from 1231 in Rayonnant Gothic"}
+  ],
+  "look": [
+    "The chevet: a continuous ring of glass with no solid wall between chapels",
+    "The joint where Suger's 1140s choir meets the 1230s nave",
+    "The west front's rose — among the earliest on a cathedral façade",
+    "The royal tombs, restored after the Revolution emptied them"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis"
+},
+
+"notre-dame": {
+  "name": "Notre-Dame de Paris",
+  "place": "Paris, France",
+  "dates": "1163 — 1345",
+  "style": "Early to Rayonnant Gothic",
+  "tagline": "Eight hundred years on an island in the Seine, including one very bad evening in April 2019.",
+  "history": [
+    "Bishop Maurice de Sully began it in 1163 on the site of earlier churches, clearing an entire quarter of the Île de la Cité to do it. The choir was usable by 1182, the nave by around 1200, the west front finished about 1250, and the last chapels closed off in 1345 — nearly two centuries of continuous work, during which the architecture changed style twice underneath the builders' hands.",
+    "It has been a stage for the state ever since: Henry VI of England crowned king of France here as a child, Napoleon crowning himself emperor in 1804, the liberation of Paris celebrated here in 1944. In between it was ransacked in the Revolution and rededicated to the Cult of Reason. Victor Hugo's novel of 1831 shamed France into restoring it, and Viollet-le-Duc spent twenty years doing so — adding, among much else, the spire that fell in 2019.",
+    "The fire of 15 April 2019 destroyed the timber roof — the <i>forêt</i>, thirteenth-century oak — and brought down the spire and part of the vault. The stone shell, the towers, the great windows and the organ survived. After five years of work by carpenters, stonecutters and glaziers, much of it using medieval methods and hand-hewn oak, the cathedral reopened on 8 December 2024."
+  ],
+  "architecture": [
+    "Notre-Dame is an early experiment scaled up beyond what early Gothic was designed for. The nave uses six-part vaults spanning two bays at a time, which is why the piers alternate in feel, and the elevation originally ran four storeys: arcade, gallery, small round windows, clerestory.",
+    "To get the vaults that high over so wide a span, the builders reached for something new around the 1180s: a stone prop, arcing over the aisle roof from an external pier to the point where the vault pushes outward. Notre-Dame's flying buttresses are among the earliest anywhere, and the chevet's — a 15-metre span, hurdling the double ambulatory in one leap — are still the most spectacular thing about the building's exterior.",
+    "The west front is a lesson in control: three portals, a gallery of kings, a rose 9.6 metres across, an arcaded screen, and two towers, all locked into a grid of horizontals and verticals so exactly balanced that nothing about it feels heavy. The transept roses, added in the 1250s under Jean de Chelles and Pierre de Montreuil, are the other thing to stand still for — the south rose is nearly thirteen metres of glass held in a web of stone bar tracery."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1163 under Maurice de Sully"},
+    {"k":"Completed","v":"1345"},
+    {"k":"Vault height","v":"33 m"},
+    {"k":"Towers","v":"69 m"},
+    {"k":"Flying buttresses","v":"Among the first; chevet span about 15 m"},
+    {"k":"Reopened","v":"8 December 2024, after the 2019 fire"}
+  ],
+  "look": [
+    "The chevet buttresses leaping the double ambulatory in a single arc",
+    "Six-part vaults in the nave — a bay rhythm you can feel underfoot",
+    "The south rose, 1260, nearly 13 m of thirteenth-century glass",
+    "New oak in the roof and spire, hewn by axe as the originals were"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+},
+
+"canterbury": {
+  "name": "Canterbury Cathedral",
+  "place": "Kent, England",
+  "dates": "1070 — 1505",
+  "style": "Norman, French Gothic, Perpendicular",
+  "tagline": "A murder, a fire, a French mason with a good idea, and the pilgrim road that gave English literature its first great poem.",
+  "history": [
+    "Thomas Becket, archbishop of Canterbury, was cut down by four of Henry II's knights in his own north transept on 29 December 1170. He was canonised within three years. Canterbury became the most visited shrine in England, and Henry walked the last stretch barefoot to be flogged by the monks at the tomb.",
+    "In 1174 the choir burned. The monks held a competition, and the winner was William of Sens, a Frenchman who had seen what was happening at Sens and Saint-Denis. He began rebuilding in the new French manner in 1175. In 1178 he fell fifty feet from the scaffolding, tried to direct the work from a bed, and went home crippled; a mason known as William the Englishman finished the job, including the Trinity Chapel built to hold Becket's shrine.",
+    "The shrine drew Chaucer's pilgrims and, eventually, Henry VIII, who destroyed it in 1538 and carried the treasure away in twenty-six carts. A bare candle now marks where it stood."
+  ],
+  "architecture": [
+    "The building is a cross-section of English church architecture. Below is the largest Norman crypt in the country, all cushion capitals and heavy round arches. Above it, the 1175 choir is French Gothic — pointed arches, rib vaults, sexpartite bays, coupled columns — but adapted to an English taste for surface and colour, above all in the dark polished Purbeck marble shafts that give the whole interior its striped, jewelled quality.",
+    "That choir is the moment Gothic crosses the Channel. It also sets a pattern the English will keep: instead of the vertiginous single volumes of France, a long sequence of separately characterised spaces — choir, Trinity Chapel, Corona — each raised a few steps above the last, so a pilgrim climbs toward the shrine.",
+    "Two centuries later Henry Yevele rebuilt the nave in Perpendicular from 1377: thin shafts running unbroken from floor to vault, huge windows, a lierne vault knitted with extra ribs. And in 1498 John Wastell raised Bell Harry, a tower built of half a million bricks and faced in stone, with a fan vault over the crossing that you can stand under and look straight up into."
+  ],
+  "facts": [
+    {"k":"Norman work","v":"from 1070"},
+    {"k":"Gothic choir","v":"1175 — 1184, William of Sens"},
+    {"k":"Becket murdered","v":"29 December 1170"},
+    {"k":"Nave rebuilt","v":"1377 — 1405, Henry Yevele"},
+    {"k":"Bell Harry tower","v":"1498, 72 m"},
+    {"k":"Status","v":"UNESCO World Heritage, 1988"}
+  ],
+  "look": [
+    "Purbeck marble shafts giving the choir its dark striping",
+    "The step-by-step rise from nave to Trinity Chapel — architecture as procession",
+    "The fan vault inside Bell Harry, seen from directly below",
+    "The Miracle Windows: thirteenth-century glass telling of cures at the tomb"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Canterbury_Cathedral"
+},
+
+"laon": {
+  "name": "Laon Cathedral",
+  "place": "Laon, France",
+  "dates": "c. 1155 — 1235",
+  "style": "Early Gothic",
+  "tagline": "Five towers on a ridge above the plain, with carved oxen leaning out of them to look at the hill they hauled the stone up.",
+  "history": [
+    "Laon sits on an isolated ridge a hundred metres above the flat Picardy plain, and was for a time a more important place than Paris — a royal city with a powerful bishop, and, after a violent communal revolt in 1112 in which the bishop was murdered, a self-governing town.",
+    "The cathedral was begun around 1155 and largely complete by the 1230s, which makes it one of the earliest fully Gothic cathedrals and, for a generation, the most influential building in France. Masons came to look at it; its ideas turn up at Notre-Dame, at Chartres and as far away as England and Germany.",
+    "Seven towers were planned. Five were built — a skyline unlike any other French cathedral, visible for thirty kilometres across the plain."
+  ],
+  "architecture": [
+    "The interior elevation has four storeys — arcade, gallery, triforium, clerestory — which is early Gothic at its most articulate: a wall taken apart into layers, each one open, so that the structure reads as a lattice rather than a surface. Sexpartite vaults span pairs of bays above.",
+    "Because it is early, everything is still relatively broad and calm; the shafts are round, the capitals crisply foliate, the light even. The chevet is not the usual apse but a flat wall with a great rose, an English-looking decision that gives the choir a wholly different ending.",
+    "And on the west towers, sixteen oxen stand carved in the corner openings, at full size, leaning out over the drop. The story told locally is that they commemorate the teams that dragged the stone up the ridge — one of the very few places in medieval architecture where the workforce, rather than the donor, is the one memorialised."
+  ],
+  "facts": [
+    {"k":"Begun","v":"c. 1155"},
+    {"k":"Elevation","v":"Four storeys — arcade, gallery, triforium, clerestory"},
+    {"k":"Vaults","v":"Sexpartite, height 24 m"},
+    {"k":"Towers","v":"Five built of seven planned"},
+    {"k":"East end","v":"Flat, with a rose — unusual in France"},
+    {"k":"Length","v":"110 m"}
+  ],
+  "look": [
+    "The sixteen stone oxen leaning out of the west towers",
+    "Four open storeys stacked up the nave wall",
+    "The flat east end with its rose, an English habit in French stone",
+    "The view: the cathedral riding a ridge above thirty kilometres of plain"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Laon_Cathedral"
+},
+
+"wells": {
+  "name": "Wells Cathedral",
+  "place": "Somerset, England",
+  "dates": "1175 — 1490",
+  "style": "Early English Gothic",
+  "tagline": "The first English cathedral built Gothic from the ground up — and the one that solved a collapsing tower with a pair of arches nobody had ever drawn before.",
+  "history": [
+    "Wells was begun around 1175 and is the earliest English cathedral conceived entirely in the Gothic style, with no Romanesque work to work around. It is also small-town: the cathedral sits in a walled close beside a moated bishop's palace and a street of medieval houses built for the choir, and the whole ensemble survives more or less intact.",
+    "In the 1310s the central tower was raised, and the piers beneath it began to sink and split. Something had to take the load off. Between 1338 and 1348 the master mason — probably William Joy — inserted three enormous inverted arches into the crossing, one under each tower face.",
+    "The cathedral came through the Reformation and the Civil War battered but standing; the west front lost much of its colour and some of its statues, but the greater part of the sculpture is still there — the largest surviving gallery of medieval figure sculpture in Britain."
+  ],
+  "architecture": [
+    "The nave is the purest Early English: sharply pointed arcades on clustered piers, deeply undercut stiff-leaf capitals, and a strong horizontal emphasis that is the English answer to French verticality. You are meant to read this church lengthwise, not upward.",
+    "The scissor arches at the crossing are one of the boldest structural inventions of the Middle Ages: an arch and an inverted arch meeting to form a figure of eight, spreading the tower's weight sideways into the nave and transept walls. They were engineering, not decoration — and they happen to be one of the most startling things in any cathedral.",
+    "Two more things to see. The chapter house is reached by a flight of steps worn into a soft, rolling wave of stone by seven centuries of feet, and its vault fans out from a single central pier into thirty-two ribs. And the west front is a stone screen, 45 metres wide, designed as a frame for around three hundred statues — originally painted and gilded, with hidden passages behind so that boys could sing through slots in the masonry, making the whole façade appear to speak."
+  ],
+  "facts": [
+    {"k":"Begun","v":"c. 1175"},
+    {"k":"Style","v":"First English cathedral wholly Gothic"},
+    {"k":"Scissor arches","v":"1338 — 1348, to save the crossing tower"},
+    {"k":"West front","v":"About 300 medieval statues"},
+    {"k":"Chapter house","v":"32 ribs from a single pier, c. 1306"},
+    {"k":"Clock","v":"c. 1390, one of the oldest working in the world"}
+  ],
+  "look": [
+    "The scissor arches — structural first aid that became the building's signature",
+    "The chapter house stair, worn into a sea of steps",
+    "Stiff-leaf capitals with tiny scenes: a man with toothache, fruit thieves",
+    "The astronomical clock, whose jousting knights have run since about 1390"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Wells_Cathedral"
+},
+
+"salisbury": {
+  "name": "Salisbury Cathedral",
+  "place": "Wiltshire, England",
+  "dates": "1220 — 1258",
+  "style": "Early English Gothic",
+  "tagline": "Built in thirty-eight years on an empty meadow, in one style, by one mind — then given the tallest spire in Britain by someone braver.",
+  "history": [
+    "The old cathedral stood inside the Iron Age hillfort of Old Sarum, sharing a cramped windswept enclosure with a royal castle. Relations with the garrison were poor. In 1219 the bishop won permission to move down into the water meadows, and the new cathedral was begun in 1220 on a virgin site with no earlier building to accommodate.",
+    "It was finished in thirty-eight years — extraordinarily fast for a cathedral — which is why it is uniquely consistent: one style, one proportional system, from end to end. The cloister and chapter house followed by 1266.",
+    "About 1310 someone decided to add a tower and spire on foundations never designed to carry them. Together they weigh some 6,500 tonnes, and the piers beneath visibly bend. Reinforcing arches, buttresses and iron ties have been added ever since; Christopher Wren surveyed it in 1668 and found the spire out of true by about 75 centimetres, where it remains."
+  ],
+  "architecture": [
+    "The interior is the calmest in England: three storeys of plain, exact geometry, banded with dark Purbeck marble shafts, with almost no ornament to distract from the proportions. Where a French cathedral pulls the eye up, Salisbury runs it down a long, cool corridor of repeated bays.",
+    "The spire is the drama. At 123 metres it is the tallest in Britain, and it is astonishingly thin — the stone shell tapers to about 60 centimetres thick. Inside it, medieval timber scaffolding is still in place, left there by the builders, and above the vault sits a windlass of about 1300 used to hoist the stone, which still works.",
+    "The chapter house is octagonal, its vault spraying from one slender central shaft, and around its walls runs a carved frieze of Genesis: creation, the flood, Babel, ninety metres of thirteenth-century storytelling at eye level. In the adjoining Chapter House sits one of the four surviving originals of Magna Carta, 1215 — the best preserved of them."
+  ],
+  "facts": [
+    {"k":"Built","v":"1220 — 1258, in 38 years"},
+    {"k":"Spire","v":"123 m — the tallest in Britain"},
+    {"k":"Spire added","v":"c. 1310 — 1330"},
+    {"k":"Tower and spire weight","v":"about 6,500 tonnes"},
+    {"k":"Cloister","v":"The largest in Britain"},
+    {"k":"Holds","v":"An original 1215 Magna Carta"}
+  ],
+  "look": [
+    "The bent piers under the crossing, still carrying a spire they never expected",
+    "Medieval scaffolding left inside the spire, seven centuries on",
+    "The Genesis frieze running round the chapter house at eye level",
+    "One style throughout — the whole church built in a single lifetime"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Salisbury_Cathedral"
+}
+}

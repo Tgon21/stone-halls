@@ -1,0 +1,851 @@
+{
+ "hall": "castle",
+ "works": [
+  {
+   "name": "Krak des Chevaliers",
+   "place": "Homs Gap, Syria",
+   "dates": "1142 — 1271",
+   "style": "Crusader concentric castle",
+   "tagline": "Two rings of wall on a spur above the only road from the coast to the interior — held by two thousand knights, and taken in the end by a forged letter.",
+   "history": [
+    "The site guards the Homs Gap, the single easy pass between the Mediterranean coast and the Syrian interior — which made it one of the most strategically valuable pieces of ground in the medieval Levant. In 1142 the count of Tripoli handed it to the Knights Hospitaller, a military order with the money and the manpower to build without limit.",
+    "They rebuilt it twice, the second time after an earthquake in 1202, into the most sophisticated fortress of its age. It held a garrison of around two thousand and stores enough for a five-year siege. Saladin looked at it in 1188 and marched on. It survived at least a dozen investments.",
+    "It fell in 1271 to the Mamluk sultan Baybars, and not by force. After a month's bombardment took the outer ward, the surviving garrison withdrew into the keep, where they could have held out for a long time. Baybars sent in a letter, purportedly from the Hospitaller commander in Tripoli, ordering surrender. It was almost certainly forged. They surrendered, and were allowed to walk out."
+   ],
+   "architecture": [
+    "Krak is the textbook concentric castle: a complete ring of wall inside another complete ring, so that an attacker who takes the outer circuit finds himself in a killing ground overlooked from above at close range, with nowhere to bring up siege engines.",
+    "The inner ward's south face is protected by a talus — a vast sloping apron of masonry up to twenty-five metres thick at the base. It does three jobs at once: it defeats mining, it stiffens the wall against earthquake, and anything dropped from the parapet ricochets off it outward into the attackers.",
+    "The single entrance is a vaulted ramp that climbs, turns back on itself through 180 degrees, and passes a series of gates and murder-holes — a horse can make it, but never at speed and never in a straight line. Inside, the architecture turns startlingly civil: a Gothic loggia of French quality, carved with the inscription <i>Sit tibi copia, sit sapientia, formaque detur; inquinat omnia sola superbia si comitetur</i> — have wealth, wisdom and beauty, but beware pride, which spoils all. T. E. Lawrence, who visited as a student, called it the finest castle in the world."
+   ],
+   "facts": [
+    {
+     "k": "Given to the Hospitallers",
+     "v": "1142"
+    },
+    {
+     "k": "Rebuilt",
+     "v": "after the earthquake of 1202"
+    },
+    {
+     "k": "Garrison",
+     "v": "About 2,000"
+    },
+    {
+     "k": "Talus",
+     "v": "Up to 25 m thick at the base"
+    },
+    {
+     "k": "Fell",
+     "v": "1271, to Baybars — reportedly by forged letter"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage, 2006"
+    }
+   ],
+   "look": [
+    "Two complete rings of wall, the outer one a trap rather than a barrier",
+    "The glacis: a sloping apron of masonry that defeats both miners and earthquakes",
+    "The bent entrance ramp, hairpinning under murder-holes",
+    "The Gothic loggia inside — French cathedral masonry in a Syrian fortress"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Krak_des_Chevaliers",
+   "id": "krak",
+   "images": [
+    {
+     "full": "assets/img/krak/krak-62ec6b14.jpg",
+     "thumb": "assets/img/krak/krak-62ec6b14-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "General view, Krak des Chevaliers in 2002",
+     "alt": "Krak des Chevaliers — exterior",
+     "artist": "Gianfranco Gazzetti",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AKRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg"
+    },
+    {
+     "full": "assets/img/krak/krak-95d8e754.jpg",
+     "thumb": "assets/img/krak/krak-95d8e754-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "This is Crac des Chevaliers seen from side",
+     "alt": "Krak des Chevaliers — exterior",
+     "artist": "Erik Albers",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ARemot_view_of_Crac_des_Chevaliers.jpg"
+    },
+    {
+     "full": "assets/img/krak/krak-203c233b.jpg",
+     "thumb": "assets/img/krak/krak-203c233b-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "Interior and upper courts of Krak des Chevaliers , Syria",
+     "alt": "Krak des Chevaliers — interior",
+     "artist": "Bernard Gagnon",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AKrak_des_Chevaliers_22.jpg"
+    },
+    {
+     "full": "assets/img/krak/krak-b8323ab4.jpg",
+     "thumb": "assets/img/krak/krak-b8323ab4-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "The interior of the chapel, re-purposed as a mosque",
+     "alt": "Krak des Chevaliers — interior",
+     "artist": "Dosseman",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AKrak_des_Chevaliers_chapel_3262.jpg"
+    },
+    {
+     "full": "assets/img/krak/krak-590b3fdb.jpg",
+     "thumb": "assets/img/krak/krak-590b3fdb-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "This is a photo of a monument in Syria identified by the ID",
+     "alt": "Krak des Chevaliers — exterior",
+     "artist": "High Contrast",
+     "license": "CC BY 3.0 de",
+     "page": "https://commons.wikimedia.org/wiki/File%3AKrak_des_Chevaliers_-_top_view.JPG"
+    },
+    {
+     "full": "assets/img/krak/krak-b6de79a1.jpg",
+     "thumb": "assets/img/krak/krak-b6de79a1-t.jpg",
+     "kind": "interior",
+     "short": "The vaults",
+     "caption": "",
+     "alt": "Krak des Chevaliers — the vaults",
+     "artist": "Dosseman",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AKrak_des_Chevaliers_great_vaulted_room_3256.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Caernarfon Castle",
+   "place": "Gwynedd, Wales",
+   "dates": "1283 — 1330",
+   "style": "Edwardian military architecture",
+   "tagline": "A conqueror's castle built to look like the walls of Constantinople, because the point was never only to be strong.",
+   "history": [
+    "After defeating Llywelyn ap Gruffudd in 1282, Edward I of England set about making the conquest of Gwynedd permanent with a ring of castles round the mountains of Snowdonia. Caernarfon, begun in 1283, was the capital of the new regime: castle, walled town and seat of government in a single operation, with the Welsh cleared out and English settlers moved in.",
+    "The master of works was James of St George, a Savoyard engineer whom Edward had met in the Alps and who built or directed most of the Welsh castles. The programme was ruinously expensive — perhaps £250,000 across all the castles, several years of royal revenue.",
+    "Edward's son, the future Edward II, was born here in 1284, and the title Prince of Wales has been attached to the place ever since; the investitures of 1911 and 1969 were staged in the ruins. The castle was never actually finished — the money ran out, and if you walk the walls you can see doorways opening into thin air where ranges were meant to go."
+   ],
+   "architecture": [
+    "Caernarfon breaks the Edwardian pattern deliberately. The other Welsh castles are round-towered and concentric; this one has polygonal towers and bands of dark stone running through the masonry. Both features quote the Theodosian Walls of Constantinople.",
+    "That was the message. Welsh legend held that the emperor Magnus Maximus had dreamed of a fort at the mouth of a river in a mountainous land, and Roman Segontium lay just up the hill. Edward was building an imperial claim in stone: not a new fort but the rightful successor of Rome in Wales. The Eagle Tower carried carved eagles for the same reason.",
+    "Militarily it is still formidable. The King's Gate, had it been completed, would have required an attacker to pass five doors and six portcullises while turning a right angle under arrow loops and murder-holes. The wall-walks are doubled in places, with a second gallery of arrow loops running inside the thickness of the wall, so three tiers of archers could shoot at once."
+   ],
+   "facts": [
+    {
+     "k": "Begun",
+     "v": "1283, for Edward I"
+    },
+    {
+     "k": "Master of works",
+     "v": "James of St George"
+    },
+    {
+     "k": "Towers",
+     "v": "Polygonal, with banded masonry"
+    },
+    {
+     "k": "King's Gate",
+     "v": "Five doors and six portcullises, as designed"
+    },
+    {
+     "k": "Never",
+     "v": "Fully completed"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage, 1986"
+    }
+   ],
+   "look": [
+    "Banded stone and angular towers quoting the walls of Constantinople",
+    "Doorways in the inner face opening onto nothing — ranges never built",
+    "Galleries of arrow loops stacked inside the wall thickness",
+    "The Eagle Tower, with its imperial birds on the battlements"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Caernarfon_Castle",
+   "id": "caernarfon",
+   "images": [
+    {
+     "full": "assets/img/caernarfon/caernarfon-af45b7ff.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-af45b7ff-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "View from the parapet",
+     "alt": "Caernarfon Castle — exterior",
+     "artist": "James Petts from London, England",
+     "license": "CC BY-SA 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_castle_%288015471165%29.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-31b54b2b.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-31b54b2b-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Caernarfon: Caernarfon Castle, seen from Castle Square",
+     "alt": "Caernarfon Castle — exterior",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3814_Caernarfon_Castle%2C_seen_from_Castle_Square_Caernarfon_20240529_0570_DxO.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-1e45c949.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-1e45c949-t.jpg",
+     "kind": "interior",
+     "short": "The tower",
+     "caption": "Caernarfon: Caernarfon Castle, Chamberlain Tower",
+     "alt": "Caernarfon Castle — the tower",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3814_Caernarfon_Castle%2C_Chamberlain_Tower_Caernarfon_20240528_0423_DxO.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-e39ea11d.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-e39ea11d-t.jpg",
+     "kind": "exterior",
+     "short": "From the air",
+     "caption": "An aerial photograph of Caernarfon Castle, a medieval fortress in Caernarfon, Gwynedd, north-west Wales",
+     "alt": "Caernarfon Castle — from the air",
+     "artist": "Kadpot",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_Castle_from_the_air.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-9e8332da.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-9e8332da-t.jpg",
+     "kind": "detail",
+     "short": "The carving",
+     "caption": "Caernarfon Castle Poppies 'Weeping Window' sculpture, by artist Paul Cummins and designer Tom Piper, presented by 14-18 NOW, Cadw and Wales for Peace",
+     "alt": "Caernarfon Castle — the carving",
+     "artist": "Craigowen1976",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_Castle_Poppies_Sculpture_-_on_Watch_Tower.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-144f8da5.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-144f8da5-t.jpg",
+     "kind": "interior",
+     "short": "The tower",
+     "caption": "Caernarfon: Caernarfon Castle, Eagle Tower, Interior",
+     "alt": "Caernarfon Castle — the tower",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3814_Caernarfon_Castle%2C_Eagle_Tower%2C_Interior_Caernarfon_20240529_0226_DxO.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-f814e50a.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-f814e50a-t.jpg",
+     "kind": "detail",
+     "short": "The carving",
+     "caption": "Caernarfon Castle Poppies 'Weeping Window' sculpture, by artist Paul Cummins and designer Tom Piper, presented by 14-18 NOW, Cadw and Wales for Peace",
+     "alt": "Caernarfon Castle — the carving",
+     "artist": "Craigowen1976",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_Castle_Poppies_Sculpture_-_the_%27dragons_claw%27.jpg"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-72ab5572.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-72ab5572-t.jpg",
+     "kind": "interior",
+     "short": "The nave",
+     "caption": "Blick von einem Turm des Caernarfon Castle den Ästuar des Afon Seiont flussaufwärts in Richtung der Berge von Snowdonia",
+     "alt": "Caernarfon Castle — the nave",
+     "artist": "GerritR",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ABlick_den_Afon_Seiont_hinauf.JPG"
+    },
+    {
+     "full": "assets/img/caernarfon/caernarfon-4bee043f.jpg",
+     "thumb": "assets/img/caernarfon/caernarfon-4bee043f-t.jpg",
+     "kind": "detail",
+     "short": "The carving",
+     "caption": "Caernarfon Castle Poppies 'Weeping Window' sculpture, by artist Paul Cummins and designer Tom Piper, presented by 14-18 NOW, Cadw and Wales for Peace",
+     "alt": "Caernarfon Castle — the carving",
+     "artist": "Craigowen1976",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACaernarfon_Castle_Poppies_Sculpture_-_wide_angle.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Conwy Castle",
+   "place": "Conwy, Wales",
+   "dates": "1283 — 1287",
+   "style": "Edwardian military architecture",
+   "tagline": "Eight towers on a rock, a walled town attached, and the whole thing built in four building seasons.",
+   "history": [
+    "Conwy went up as part of the same campaign as Caernarfon, and at a speed that is still hard to credit: castle and town walls, essentially complete, in four years between 1283 and 1287. At peak, something like 1,500 men were on site. It cost about £15,000, an enormous sum — perhaps a fifth of the entire Welsh castle programme.",
+    "The site is a rock outcrop where the Conwy estuary narrows, so the sea could supply the garrison even under siege. Edward himself was trapped here in the winter of 1294–95 during a Welsh revolt, cut off and rationed, until the fleet arrived.",
+    "In 1401, while the garrison was at church on Good Friday, two Welshmen took the castle for Owain Glyndŵr's rebellion with a party of about forty. Holding it was another matter; it was negotiated back within months."
+   ],
+   "architecture": [
+    "Where Caernarfon argues, Conwy simply works. The plan is dictated entirely by the rock: a long rectangle with eight almost identical drum towers, divided by a cross-wall into an outer ward for the garrison and an inner ward for the king. If the outer ward fell, the inner was a separate castle with its own gate, well and water gate to the sea.",
+    "The four inner towers carry slender turrets, which is where the royal apartments were — the most intact suite of medieval royal rooms in England or Wales. The great hall's roof was carried on eight stone arches, one of which still stands.",
+    "The town wall is the other half of the design and survives almost entire: 1.3 kilometres of curtain with twenty-one towers and three twin-towered gates, encircling the settlement. Castle and town were built as one fortified object. There is even a row of twelve garderobe chutes projecting from the wall, built for the town's officials — medieval municipal plumbing, still visible."
+   ],
+   "facts": [
+    {
+     "k": "Built",
+     "v": "1283 — 1287, in four seasons"
+    },
+    {
+     "k": "Cost",
+     "v": "About £15,000"
+    },
+    {
+     "k": "Towers",
+     "v": "8 on the castle; 21 on the town wall"
+    },
+    {
+     "k": "Town wall",
+     "v": "1.3 km, essentially complete"
+    },
+    {
+     "k": "Master of works",
+     "v": "James of St George"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage, 1986"
+    }
+   ],
+   "look": [
+    "The cross-wall making two castles out of one",
+    "The surviving stone arch of the great hall roof",
+    "Royal apartments in the inner ward — the best preserved of their kind",
+    "Twelve garderobe chutes hanging off the town wall"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Conwy_Castle",
+   "id": "conwy",
+   "images": [
+    {
+     "full": "assets/img/conwy/conwy-de82228e.jpg",
+     "thumb": "assets/img/conwy/conwy-de82228e-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Conwy: Conwy Castle, seen from the East",
+     "alt": "Conwy Castle — exterior",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_seen_from_the_East_Conwy_20240529_0143_DxO.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-72a9c3a8.jpg",
+     "thumb": "assets/img/conwy/conwy-72a9c3a8-t.jpg",
+     "kind": "exterior",
+     "short": "The courtyard",
+     "caption": "Conwy: Conwy Castle, Inner Ward, seen from the West",
+     "alt": "Conwy Castle — the courtyard",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_Inner_Ward%2C_seen_from_the_West_Conwy_20240529_0193_DxO.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-d9243a98.jpg",
+     "thumb": "assets/img/conwy/conwy-d9243a98-t.jpg",
+     "kind": "interior",
+     "short": "The tower",
+     "caption": "Conwy: Conwy Castle, Chapel Tower, seen from the South",
+     "alt": "Conwy Castle — the tower",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_Chapel_Tower%2C_seen_from_the_South_Conwy_20240529_0141_DxO.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-984795a0.jpg",
+     "thumb": "assets/img/conwy/conwy-984795a0-t.jpg",
+     "kind": "detail",
+     "short": "The carving",
+     "caption": "",
+     "alt": "Conwy Castle — the carving",
+     "artist": "James Petts from London, England",
+     "license": "CC BY-SA 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AConwy_Castle_%287827105202%29.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-5938c768.jpg",
+     "thumb": "assets/img/conwy/conwy-5938c768-t.jpg",
+     "kind": "interior",
+     "short": "The tower",
+     "caption": "Conwy: Conwy Castle, Chapel Tower, seen from the West",
+     "alt": "Conwy Castle — the tower",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_Chapel_Tower%2C_seen_from_the_West_Conwy_20240529_0112_DxO.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-d9765608.jpg",
+     "thumb": "assets/img/conwy/conwy-d9765608-t.jpg",
+     "kind": "exterior",
+     "short": "The walls",
+     "caption": "Conwy: Conwy Castle, West Barbican, seen from above",
+     "alt": "Conwy Castle — the walls",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_West_Barbican%2C_seen_from_above_Conwy_20240529_0253_DxO.jpg"
+    },
+    {
+     "full": "assets/img/conwy/conwy-b53a5152.jpg",
+     "thumb": "assets/img/conwy/conwy-b53a5152-t.jpg",
+     "kind": "interior",
+     "short": "Inside",
+     "caption": "Conwy: Conwy Castle, Great Hall, looking East",
+     "alt": "Conwy Castle — inside",
+     "artist": "Tilman2007",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A3250_Conwy_Castle%2C_Great_Hall%2C_looking_East_Conwy_20240529_0177_DxO.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Cité de Carcassonne",
+   "place": "Languedoc, France",
+   "dates": "Roman — 13th c.; restored from 1853",
+   "style": "Roman, Visigothic, medieval — and Viollet-le-Duc",
+   "tagline": "Three kilometres of double walls and fifty-two towers, half of it genuinely medieval and half of it a nineteenth-century argument about what medieval meant.",
+   "history": [
+    "The hill has been fortified since the Romans, whose towers still form the lower courses of the inner wall. It passed through Visigoths and Saracens to the viscounts of Trencavel, who held it when the Albigensian Crusade arrived in 1209. The city surrendered after a fortnight without water; the viscount died in his own dungeon three months later.",
+    "The French crown then made it a frontier fortress against Aragon and built the outer ring of walls, creating the double enceinte. When the frontier moved south in 1659 the fortress became militarily pointless. By the 1840s it was a slum inside crumbling walls, and the government proposed demolition.",
+    "Local campaigning saved it, and in 1853 Viollet-le-Duc began a restoration that lasted, through his death, until 1910. He rebuilt the towers with pointed conical roofs in slate — northern French practice, in a region that roofs in flat red tile. Critics have argued about it ever since. Whatever it is, it is the reason the place is still standing."
+   ],
+   "architecture": [
+    "The strength is in the doubling. Two concentric curtain walls, with a wide open lists between them: an attacker who breaches the outer wall finds himself in a corridor swept from both sides, unable to bring engines against the inner wall. Fifty-two towers stud the circuit, most of them open-backed so that if one were taken it could not be held.",
+    "The masonry is a lesson in stratigraphy. Look at the inner wall's north side and you can read Roman work at the bottom — small squared blocks with brick bonding courses — then Visigothic, then twelfth- and thirteenth-century medieval above, then Viollet-le-Duc's restoration on top, each with its own texture.",
+    "The Château Comtal inside is a castle within the fortress, with its own moat and barbican, so the lord could hold out against his own city. And the Porte Narbonnaise, the main gate, is a full defensive sequence: a bridge, a barbican, two towers with a beaked front designed to deflect missiles, a portcullis, a killing chamber, then another gate."
+   ],
+   "facts": [
+    {
+     "k": "Walls",
+     "v": "Two rings, about 3 km in total"
+    },
+    {
+     "k": "Towers",
+     "v": "52"
+    },
+    {
+     "k": "Roman fabric",
+     "v": "Visible in the lower inner wall"
+    },
+    {
+     "k": "Outer wall",
+     "v": "13th century, after the Albigensian Crusade"
+    },
+    {
+     "k": "Restored",
+     "v": "1853 — 1910, begun by Viollet-le-Duc"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage, 1997"
+    }
+   ],
+   "look": [
+    "The lists — the open corridor between the two walls, a deliberate trap",
+    "Roman brick-banded masonry surviving in the lower courses",
+    "Open-backed towers: take one and you still have nothing",
+    "The controversial slate cones, northern roofs on a southern town"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne",
+   "id": "carcassonne",
+   "images": [
+    {
+     "full": "assets/img/carcassonne/carcassonne-6990f3d1.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-6990f3d1-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Fortified city of Carcassonne, France",
+     "alt": "Cité de Carcassonne — exterior",
+     "artist": "Diego Delso",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACiudadela%2C_Carcasona%2C_Francia%2C_2023-01-07%2C_DD_149-151_HDR.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-0c23f866.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-0c23f866-t.jpg",
+     "kind": "exterior",
+     "short": "The walls",
+     "caption": "Le St. Jean (restaurant within the walls), seen from the walls of the historic fortified city, Carcassonne, France",
+     "alt": "Cité de Carcassonne — the walls",
+     "artist": "Joe Mabel",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACarcassonne_-_Le_St._Jean_01.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-384d8966.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-384d8966-t.jpg",
+     "kind": "interior",
+     "short": "Inside",
+     "caption": "",
+     "alt": "Cité de Carcassonne — inside",
+     "artist": "Krzysztof Golik",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A15_Rue_Saint-Louis_in_Carcassone.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-c7f3aad8.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-c7f3aad8-t.jpg",
+     "kind": "exterior",
+     "short": "The courtyard",
+     "caption": "View from the walls of the Château de Carcassonne, France",
+     "alt": "Cité de Carcassonne — the courtyard",
+     "artist": "Joe Mabel",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AView_toward_the_Porte_Narbonnaise_from_the_walls_of_the_Ch%C3%A2teau_de_Carcassonne_01.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-b1a31708.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-b1a31708-t.jpg",
+     "kind": "detail",
+     "short": "Detail",
+     "caption": "Looking through windows from a high passage in the Château de Carcassonne, France",
+     "alt": "Cité de Carcassonne — detail",
+     "artist": "Joe Mabel",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ALooking_through_windows_from_a_high_passage_in_the_Ch%C3%A2teau_de_Carcassonne_01.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-d683a240.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-d683a240-t.jpg",
+     "kind": "interior",
+     "short": "Inside",
+     "caption": "",
+     "alt": "Cité de Carcassonne — inside",
+     "artist": "Krzysztof Golik",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACastle_of_Carcassonne.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-5b4b9e67.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-5b4b9e67-t.jpg",
+     "kind": "exterior",
+     "short": "The tower",
+     "caption": "Tour de la Peyre, Cité de Carcassonne",
+     "alt": "Cité de Carcassonne — the tower",
+     "artist": "M.Strīķis",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ATour_de_la_Peyre%2C_Cit%C3%A9_de_Carcassonne_-_panoramio.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-6fe18493.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-6fe18493-t.jpg",
+     "kind": "detail",
+     "short": "Detail",
+     "caption": "In der Südmauer, diese Fenster sind nur dadurch zu erklären, dass es auf der Nordseite dieser Mauer ein Gebäude gab",
+     "alt": "Cité de Carcassonne — detail",
+     "artist": "Falk2",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AS01_641_Grafenschloss%2C_gotisches_Fenster.jpg"
+    },
+    {
+     "full": "assets/img/carcassonne/carcassonne-233261ae.jpg",
+     "thumb": "assets/img/carcassonne/carcassonne-233261ae-t.jpg",
+     "kind": "interior",
+     "short": "The nave",
+     "caption": "La présidente du Centre des Monuments nationaux, Marie Lavandier, à Carcassonne lors de l'inauguration du nouveau circuit des remparts en septembre 2024",
+     "alt": "Cité de Carcassonne — the nave",
+     "artist": "APB11",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMarie_Lavandier-Carcassonne_12-09-2024_%282%29.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Malbork Castle",
+   "place": "Malbork, Poland",
+   "dates": "1274 — 1406",
+   "style": "Brick Gothic",
+   "tagline": "The largest castle on earth by area, built of brick by a monastic army, with underfloor heating and a vault that stands on one pillar.",
+   "history": [
+    "The Teutonic Knights were a crusading order who, having lost their footing in the Holy Land, conquered the pagan Baltic coast and set up a state of their own. From 1309 Malbork — then Marienburg — was its capital, and the residence of the Grand Master. They kept building for a century, until it covered some twenty-one hectares.",
+    "In 1410 the Order lost the battle of Grunwald, one of the largest engagements of medieval Europe, and a Polish-Lithuanian army besieged the castle. It held. The Order's decline was financial rather than military: in 1457 unpaid Bohemian mercenaries sold the castle to the king of Poland, and it became a Polish royal residence.",
+    "The nineteenth century restored it as a symbol of German nationhood; in 1945 the fighting for the town destroyed roughly half of it. The rebuilding since, largely by Polish conservators using the meticulous nineteenth-century survey drawings, is one of the great restoration projects of the last century."
+   ],
+   "architecture": [
+    "There is no building stone in the Vistula delta, so it is built of brick — millions of them, in the sharp, spare idiom that northern Europe developed when it had to build Gothic out of clay. Ornament comes from patterned bonding, glazed headers and moulded brick, not from carving.",
+    "It is really three castles in sequence, each defensible against the last: the Lower Castle with the workshops and armoury, the Middle Castle with the Grand Master's palace and guest halls, and the High Castle, a four-winged convent block around a cloister, holding the church, chapter house and dormitories of the knights themselves.",
+    "Two rooms are worth the visit alone. The Grand Refectory carries a vast net vault on slender granite pillars, and the Grand Master's Summer Refectory spreads its entire vault from a single central pillar — a piece of confidence so provocative that legend says a besieger fired a cannonball at the pillar to bring it down, and missed. The whole complex was heated by hypocausts, hot air ducted under stone floors from furnaces below, in fourteenth-century Prussia."
+   ],
+   "facts": [
+    {
+     "k": "Begun",
+     "v": "1274; capital of the Order from 1309"
+    },
+    {
+     "k": "Area",
+     "v": "About 21 hectares — the largest castle by land area"
+    },
+    {
+     "k": "Material",
+     "v": "Brick, several million of them"
+    },
+    {
+     "k": "Structure",
+     "v": "Three castles in sequence"
+    },
+    {
+     "k": "Heating",
+     "v": "Hypocaust — warm air under the floors"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage, 1997"
+    }
+   ],
+   "look": [
+    "The Summer Refectory's whole vault spreading from one granite pillar",
+    "Brick decoration by bonding and glaze, since there is no stone to carve",
+    "Three successive castles, each defensible against the one before",
+    "Hypocaust chambers under the floors, still visible"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Malbork_Castle",
+   "id": "malbork",
+   "images": [
+    {
+     "full": "assets/img/malbork/malbork-b7a8d501.jpg",
+     "thumb": "assets/img/malbork/malbork-b7a8d501-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Picture taken in Malbork after Wikimania 2010 conference . Panorama of Malbork Castle",
+     "alt": "Malbork Castle — exterior",
+     "artist": "DerHexer ; derivate work:  Wladyslaw",
+     "license": "CC BY 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Malbork_Castle_-_Edit_Taxi.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-fa8427e3.jpg",
+     "thumb": "assets/img/malbork/malbork-fa8427e3-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "",
+     "alt": "Malbork Castle — exterior",
+     "artist": "Scotch Mist",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMalbork_Castle_2023_091.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-16ff14fc.jpg",
+     "thumb": "assets/img/malbork/malbork-16ff14fc-t.jpg",
+     "kind": "interior",
+     "short": "The altar",
+     "caption": "\"Altar panel with the Sacra Conversazione scene, a Greater Poland's workshop, 1496, oil on a pinewood board. Poznan, the Archdiocesan Museum, MAdP 86\". Castle in Malbork, Poland",
+     "alt": "Malbork Castle — the altar",
+     "artist": "Photograph by Mike Peel ( www.mikepeel.net ).",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACastle_in_Malbork_2015_294.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-baeb3142.jpg",
+     "thumb": "assets/img/malbork/malbork-baeb3142-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Picture taken in Malborg after Wikimania 2010 conference . Mill",
+     "alt": "Malbork Castle — exterior",
+     "artist": "DerHexer",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMill_in_Malbork%2C_part_2.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-d0e06e27.jpg",
+     "thumb": "assets/img/malbork/malbork-d0e06e27-t.jpg",
+     "kind": "detail",
+     "short": "The carving",
+     "caption": "\"St. George. a Krolewiec (Konigsberg) workshop, around 1500, limewood, woodcarving. Olsztyn, the Museum of Warmia and Masuria, Sz. 71-OMO\". Castle in Malbork, Poland",
+     "alt": "Malbork Castle — the carving",
+     "artist": "Photograph by Mike Peel ( www.mikepeel.net ).",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ACastle_in_Malbork_2015_273.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-64715e8d.jpg",
+     "thumb": "assets/img/malbork/malbork-64715e8d-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "",
+     "alt": "Malbork Castle — interior",
+     "artist": "Bybbisch94",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3A20260530.Interior_of_Malbork_Castle.-113.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-9a106809.jpg",
+     "thumb": "assets/img/malbork/malbork-9a106809-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Picture taken in Malborg after Wikimania 2010 conference . Mill",
+     "alt": "Malbork Castle — exterior",
+     "artist": "DerHexer",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMill_in_Malbork.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-c4f75b14.jpg",
+     "thumb": "assets/img/malbork/malbork-c4f75b14-t.jpg",
+     "kind": "detail",
+     "short": "Detail",
+     "caption": "Zamek w Malborku (Zamek wzniesiony w kilku etapach od 1280 do poł. XV w. przez zakon krzyżacki)",
+     "alt": "Malbork Castle — detail",
+     "artist": "Bornholm",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMalbork_castle_corbels_Palace.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-5d9bc01d.jpg",
+     "thumb": "assets/img/malbork/malbork-5d9bc01d-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "Interior of Malbork Castle",
+     "alt": "Malbork Castle — interior",
+     "artist": "Jakub Hałun",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AZamek_w_Malborku%2C_20210908_1142_2597.jpg"
+    },
+    {
+     "full": "assets/img/malbork/malbork-b93a88d4.jpg",
+     "thumb": "assets/img/malbork/malbork-b93a88d4-t.jpg",
+     "kind": "detail",
+     "short": "Detail",
+     "caption": "Wspornik w Pałacu Wielkich Mistrzów",
+     "alt": "Malbork Castle — detail",
+     "artist": "Bornholm",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMalbork_castle_corbels_Palace_2.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Alcázar of Segovia",
+   "place": "Segovia, Spain",
+   "dates": "12th c. — 1587; rebuilt 1882",
+   "style": "Mudéjar and Gothic",
+   "tagline": "A ship of stone on a rock where two rivers meet, with ceilings that are Islamic craft in a Christian palace.",
+   "history": [
+    "The rock at the confluence of the Eresma and Clamores was fortified by the Romans and the Moors; the Christian kings of Castile turned it into a palace-fortress from the twelfth century. Alfonso X, John II and Henry IV all built here, and in 1474 Isabella walked out of this gate to be proclaimed Queen of Castile in the square below.",
+    "Philip II gave it the steep slate spires in 1587, imported from central Europe with the Habsburg taste. Afterwards it slid down the scale of usefulness: state prison, then, from 1762, the Royal Artillery College.",
+    "In 1862 a fire — probably started by cadets — gutted the palace and destroyed most of the ceilings. Rebuilding began twenty years later, restoring the Mudéjar interiors from drawings and surviving fragments. The building you visit is genuinely medieval in fabric and largely nineteenth-century in surface."
+   ],
+   "architecture": [
+    "The plan is set by the rock: a long, narrow wedge running out to a point, with the keep at the wide end and the prow at the sharp one, a hundred metres above the valley. From below it reads unmistakably as the bow of a ship. A dry moat and drawbridge close the only landward approach.",
+    "Inside, the architecture is Mudéjar — Christian patronage, Muslim craftsmanship. The Hall of the Kings carries a gilded frieze of the fifty-two monarchs of Asturias, León and Castile; the Hall of the Pineapples takes its name from the 392 pine-cone bosses hanging from its ceiling. These are coffered timber ceilings, <i>artesonado</i>, geometry worked in wood by craftsmen trained in an Islamic tradition.",
+    "The Tower of John II, added in the fifteenth century, is banded with twelve small round turrets and a machicolated crown — decorative militarism, by then. Together the sheer walls, the pointed slate roofs and the prow made the silhouette that has been redrawn in storybooks ever since."
+   ],
+   "facts": [
+    {
+     "k": "Fortified",
+     "v": "Roman, Moorish, then Castilian from the 12th c."
+    },
+    {
+     "k": "Spires",
+     "v": "Added 1587 under Philip II"
+    },
+    {
+     "k": "Artillery College",
+     "v": "From 1762"
+    },
+    {
+     "k": "Fire",
+     "v": "1862; rebuilt from 1882"
+    },
+    {
+     "k": "Pineapple Hall",
+     "v": "392 carved pine-cone bosses"
+    },
+    {
+     "k": "Status",
+     "v": "UNESCO World Heritage (Segovia), 1985"
+    }
+   ],
+   "look": [
+    "The prow: the whole castle narrows to a point above the river junction",
+    "Artesonado ceilings — Islamic geometry in a Castilian throne room",
+    "The Hall of Kings and its gilded frieze of fifty-two monarchs",
+    "The Tower of John II, ringed with twelve small turrets"
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Segovia",
+   "id": "alcazar-segovia",
+   "images": [
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-381cc25b.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-381cc25b-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "Alcázar de Segovia",
+     "alt": "Alcázar of Segovia — exterior",
+     "artist": "D.Rovchak",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AAlc%C3%A1zar_de_Segovia%2C_Panorama.jpg"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-97335b85.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-97335b85-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "View of Segovia (Spain) as seen from the alcázar",
+     "alt": "Alcázar of Segovia — exterior",
+     "artist": "Carlos Delgado",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ASegovia_-_01.jpg"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-5b39f21e.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-5b39f21e-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "Sala Daoíz del Alcázar de Segovia",
+     "alt": "Alcázar of Segovia — interior",
+     "artist": "Ministrillo",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ASala_Dao%C3%ADz_del_Alc%C3%A1zar_de_Segovia.JPG"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-d9068e3e.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-d9068e3e-t.jpg",
+     "kind": "exterior",
+     "short": "Exterior",
+     "caption": "A view from the Alcázar of Segovia to the north: Convent of the Carmelitas Descalzos at left, Zamarramala Street in center and Church of the Vera Cruz at right, Segovia , Spain",
+     "alt": "Alcázar of Segovia — exterior",
+     "artist": "Bernard Gagnon",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AView_from_Alcazar_of_Segovia.jpg"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-2fe76860.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-2fe76860-t.jpg",
+     "kind": "detail",
+     "short": "The capitals",
+     "caption": "Torre de Moros Norte del Alcázar de Segovia",
+     "alt": "Alcázar of Segovia — the capitals",
+     "artist": "Luis Rogelio HM",
+     "license": "CC BY-SA 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3ASegovia_Capital_-_124_%2831042472260%29.jpg"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-c382be8b.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-c382be8b-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "",
+     "alt": "Alcázar of Segovia — interior",
+     "artist": "Américo Toledano",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AAlc%C3%A1zar_de_Segovia_020.jpg"
+    },
+    {
+     "full": "assets/img/alcazar-segovia/alcazar-segovia-be804788.jpg",
+     "thumb": "assets/img/alcazar-segovia/alcazar-segovia-be804788-t.jpg",
+     "kind": "interior",
+     "short": "Interior",
+     "caption": "Sala del Museo del Real Colegio de Artillería del Alcázar de Segovia",
+     "alt": "Alcázar of Segovia — interior",
+     "artist": "Ministrillo",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File%3AMuseo_del_Real_Colegio_de_Artiller%C3%ADa.jpg"
+    }
+   ]
+  }
+ ]
+}

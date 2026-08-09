@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Stone Halls</title>
+<meta name="description" content="Walk a hall of cathedral and castle architecture and step up to each building.">
+<meta name="theme-color" content="#08080a">
+<link rel="icon" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/hall.css">
+<link rel="stylesheet" href="css/plaque.css">
+</head>
+<body>
+
+<div class="viewport" id="viewport">
+  <div class="world" id="world"></div>
+</div>
+
+<div class="hud">
+  <div class="hud__top">
+    <a class="hud__back" href="index.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+        <path d="M15 5l-7 7 7 7"/></svg>
+      The timeline
+    </a>
+    <div class="hud__title">
+      <b id="hallName">…</b>
+      <span id="hallEra"></span>
+    </div>
+    <div class="hud__tools">
+      <button class="tool" id="tour" title="Guided walk (T)" aria-label="Guided walk">
+        <svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </button>
+      <button class="tool" id="sound" title="Room tone" aria-label="Room tone">
+        <svg viewBox="0 0 24 24"><path d="M5 9v6h4l5 4V5L9 9H5z"/><path d="M17 9a4 4 0 010 6"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="rail" id="rail"><div class="rail__fill" id="railFill"></div></div>
+
+  <div class="hud__foot">
+    <div class="keys">
+      <span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> walk</span>
+      <span><kbd>drag</kbd> look</span>
+      <span><kbd>click</kbd> a picture to step up</span>
+      <span><kbd>T</kbd> guided walk</span>
+    </div>
+    <div class="pads">
+      <div class="pad" id="padB" aria-label="Walk back"><svg viewBox="0 0 24 24"><path d="M12 19l-7-7h14z"/></svg></div>
+      <div class="pad" id="padF" aria-label="Walk forward"><svg viewBox="0 0 24 24"><path d="M12 5l7 7H5z"/></svg></div>
+    </div>
+  </div>
+
+  <a class="hud__back" id="nextHall" href="#"
+     style="position:absolute;right:26px;bottom:26px">Next hall · <span></span> →</a>
+</div>
+
+<div class="vignette"></div>
+<div class="grain"></div>
+<div class="curtain" id="curtain"></div>
+
+<script type="module" src="js/hall.js"></script>
+</body>
+</html>

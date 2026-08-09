@@ -1,0 +1,199 @@
+{
+"milan": {
+  "name": "Milan Cathedral",
+  "place": "Milan, Italy",
+  "dates": "1386 — 1965",
+  "style": "Late Gothic, pursued for six centuries",
+  "tagline": "Five hundred and seventy-nine years of construction, 135 spires, and an argument in 1392 about whether a cathedral should be drawn from squares or triangles.",
+  "history": [
+    "Gian Galeazzo Visconti, lord of Milan, began it in 1386 and gave the works the marble quarry at Candoglia in perpetuity — a source of pale pink-white stone floated down the lakes and canals to the site, tax-free, marked AUF: <i>ad usum fabricae</i>, for the use of the works.",
+    "The building committee imported masters from France and Germany, and immediately fell out with them. Records of the debates survive, which is rare and revealing: the northerners argued the section should be set out <i>ad triangulum</i>, from equilateral triangles, and the Italians preferred <i>ad quadratum</i>, from squares. A mathematician, Gabriele Stornaloco, was called in to arbitrate in 1392. The compromise they reached is why the interior is proportioned as it is.",
+    "Work continued through the Renaissance, the Baroque and beyond. Napoleon, wanting to be crowned King of Italy here, ordered the façade finished in 1805 and had the state pay for it. The last gate was hung in 1965. Milanese use <i>la fabbrica del Duomo</i> as an idiom for a job that never ends."
+  ],
+  "architecture": [
+    "Nothing else in Italy looks like this, because Italy generally disliked Gothic. Milan committed totally: five aisles, a forest of piers with capitals turned into niches full of statues, and a fabric that is white marble from top to bottom, inside and out.",
+    "The roof is the extraordinary part, and you can walk on it. Above the vaults spreads a landscape of flying buttresses, tracery screens and 135 spires, each carrying a statue, all in the same marble, so the exterior dissolves into a thicket of pinnacles that has more in common with a coral reef than a building. Around 3,400 statues are attached to it — more than any other building in the world.",
+    "On the tallest spire, 108.5 metres up, stands the Madonnina, gilded copper on an iron frame, raised in 1774. By custom no building in Milan rose above her; when the skyscrapers came, each of them mounted a replica at its summit so the rule could be kept. Inside, a brass meridian line runs across the floor, laid by astronomers in 1786, with a hole in the vault that drops a spot of sunlight onto the correct date at noon."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1386"},
+    {"k":"Effectively finished","v":"1965"},
+    {"k":"Marble","v":"Candoglia, granted to the works in perpetuity"},
+    {"k":"Statues","v":"About 3,400 — the most on any building"},
+    {"k":"Spires","v":"135; tallest 108.5 m"},
+    {"k":"Capacity","v":"About 40,000"}
+  ],
+  "look": [
+    "The roof terraces — you can walk out among the spires",
+    "Capitals turned into statue niches, a Milanese invention",
+    "The 1786 meridian line and the beam of noon sunlight that crosses it",
+    "The Madonnina, and her replicas on top of the city's skyscrapers"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Milan_Cathedral"
+},
+
+"kings-college": {
+  "name": "King's College Chapel",
+  "place": "Cambridge, England",
+  "dates": "1446 — 1515",
+  "style": "English Perpendicular",
+  "tagline": "The largest fan vault ever built, over a room that is essentially a glass box with a stone lid.",
+  "history": [
+    "Henry VI laid the first stone in 1446, aged twenty-four, and specified the dimensions himself in a document called the Will — he wanted plainness, 'in large fourme, clene and substantial'. Then he lost his throne, his mind and eventually his life in the Wars of the Roses, and the work stopped with the walls half up.",
+    "You can see the interruption from outside: the stone changes colour partway up, from the white magnesian limestone of the first campaign to the warmer stone of the second. Richard III restarted it; Henry VII paid for the completion of the shell; Henry VIII's money finished the vault and the glass.",
+    "The glass was made between 1515 and 1531, largely by Flemish craftsmen, and constitutes the most complete set of early Renaissance windows anywhere in England. It survived the Reformation and the Civil War — Cromwell's troops were quartered in the chapel and left it alone, possibly because the college was sympathetic. In 1939 the windows were taken out, panel by panel, and buried for the duration."
+  ],
+  "architecture": [
+    "Perpendicular is the last and most English of Gothic styles, and this is its masterpiece: one undivided room, 88 metres long and 12.6 wide, with no aisles, no transepts and no columns — twelve bays of wall that are almost entirely window, divided by slim buttresses that do all the structural work from outside.",
+    "The vault, built by John Wastell between 1512 and 1515, is the largest fan vault in the world. A fan vault is a conoid — a funnel of stone whose ribs all spring at the same angle and are all the same length, so the geometry is repeatable and the whole surface can be cut as jointed panels rather than assembled rib-by-rib. It is a system as much as an ornament, and it weighs about 1,875 tonnes.",
+    "Under it hangs Peter Paul Rubens' <i>Adoration of the Magi</i> of 1634, given to the college in 1961 and installed as the altarpiece. And every Christmas Eve since 1918 the Festival of Nine Lessons and Carols has been broadcast from this room, opening with a single treble voice that nobody knows in advance will be chosen."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1446, by Henry VI"},
+    {"k":"Completed","v":"1515; glass to 1531"},
+    {"k":"Fan vault","v":"John Wastell, 1512 — 1515; the world's largest"},
+    {"k":"Interior","v":"88 m long, 12.6 m wide, 24 m high"},
+    {"k":"Vault weight","v":"About 1,875 tonnes"},
+    {"k":"Windows","v":"26 bays of early Renaissance glass"}
+  ],
+  "look": [
+    "The fan vault: identical stone funnels, repeated twelve times",
+    "The change of stone colour where the Wars of the Roses stopped work",
+    "Rubens' Adoration of the Magi behind the altar",
+    "Tudor heraldry — dragons, greyhounds, portcullises — cut deep in the screen"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/King%27s_College_Chapel,_Cambridge"
+},
+
+"gloucester": {
+  "name": "Gloucester Cathedral",
+  "place": "Gloucestershire, England",
+  "dates": "1089; remodelled 1337 — 1412",
+  "style": "Norman, cased in Perpendicular",
+  "tagline": "A murdered king's tomb made the abbey rich, and the masons spent the money inventing a whole architectural style.",
+  "history": [
+    "The abbey church was begun in 1089, and is Norman to its bones — vast cylindrical piers march down the nave. What changed its fortunes was a corpse. Edward II, deposed and killed at Berkeley Castle in 1327, was refused burial elsewhere; Gloucester took him. His tomb became a place of pilgrimage, and the offerings paid for everything that followed.",
+    "From 1337 the monks remodelled the choir. Rather than demolish the Norman work, they cased it — hanging a screen of new panelled tracery over the existing arcades, like a cage of stone drawn across old walls. The result was something nobody had built before, and it is generally taken as the birth of the Perpendicular style, which then dominated English building for two hundred years.",
+    "The cloister followed between 1351 and 1412 and carries the earliest fan vault in existence. Both spaces have had a curious second life on film: the cloister has played the corridors of Hogwarts since 2001."
+  ],
+  "architecture": [
+    "The choir shows the trick plainly. The Norman structure is still there behind — you can see it in the triforium — but over it runs a continuous grid of vertical mullions and horizontal transoms, unifying arcade, triforium and clerestory into a single panelled surface. The idea is to make the wall read as one thing, and to make that thing look like a window.",
+    "The Great East Window, glazed about 1350, is the logical end of it: at roughly twenty-two by twelve metres, it was the largest window in the world when built and remains the largest area of medieval glass in Britain. It is slightly bowed in plan, like a triptych, to brace it against wind. Much of it commemorates men who fought at Crécy.",
+    "The cloister's fan vault is the prototype for everything from Cambridge to Bath: identical conoids of stone springing from each wall shaft and meeting in flat panels along the crown. In the south walk, the monks' washing place — the lavatorium — still has its stone trough, and opposite it a row of twenty carrels where they sat and copied books by daylight."
+  ],
+  "facts": [
+    {"k":"Norman church begun","v":"1089"},
+    {"k":"Choir remodelled","v":"1337 — 1357"},
+    {"k":"Great East Window","v":"c. 1350; about 22 × 12 m"},
+    {"k":"Cloister fan vault","v":"1351 — 1412, the earliest known"},
+    {"k":"Tomb","v":"Edward II, murdered 1327"},
+    {"k":"Tower","v":"1450s, 69 m"}
+  ],
+  "look": [
+    "Perpendicular panelling hung over Norman arcades like a stone cage",
+    "The Great East Window, bowed in plan to resist the wind",
+    "The first fan vault ever built, in the cloister",
+    "Monks' carrels and the stone washing trough in the south walk"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gloucester_Cathedral"
+},
+
+"st-vitus": {
+  "name": "St Vitus Cathedral",
+  "place": "Prague, Czech Republic",
+  "dates": "1344 — 1929",
+  "style": "Late Gothic, finished in Revival",
+  "tagline": "A twenty-three-year-old mason invented the net vault here, and then signed his own portrait onto the wall.",
+  "history": [
+    "Charles IV — king of Bohemia and Holy Roman Emperor — founded the cathedral in 1344 inside Prague Castle, as the centrepiece of a city he intended to make the capital of the Empire. He hired Matthias of Arras, a Frenchman, who built the standard High Gothic east end and then died in 1352.",
+    "His replacement was Peter Parler, twenty-three years old, from a family of masons in Swabia. Parler ran the works for forty-six years and rewrote the rules while doing it. The Hussite wars, fires and money troubles then stopped everything for centuries; for four hundred years the unfinished choir stood walled off with a temporary front.",
+    "The nave and west front were finally built between 1873 and 1929, in a scholarly Gothic Revival matched to Parler's work. It holds the Bohemian crown jewels behind a door with seven locks, whose keys are held by seven different people."
+  ],
+  "architecture": [
+    "Parler's choir vault is the pivot on which late Gothic turns. Instead of separate four-part vaults bay by bay, he ran continuous ribs in a diagonal lattice the whole length of the choir — a net vault, the first in Europe. The bays stop being units and the ceiling becomes one flowing surface. Every net, star and flowing vault in central Europe descends from it.",
+    "He was doing similar things elsewhere: in the south porch the ribs of the vault stand free of the surface, floating as an independent web; the triforium is glazed and its parapet turned into a gallery of portrait busts. Twenty-one of them are real likenesses of the royal family, the archbishops, the directors of works — and two are the architects themselves, Matthias and Parler. Nowhere else in medieval Europe do the builders put their own faces at that height.",
+    "The other set piece is the Wenceslas Chapel, built over the saint's grave: its lower walls are set with more than 1,300 pieces of polished jasper and amethyst, bedded in gilt plaster, so the room glitters like the inside of a reliquary. It was where the coronation route ended, and it still holds the door to the crown jewels."
+  ],
+  "facts": [
+    {"k":"Founded","v":"1344 by Charles IV"},
+    {"k":"Peter Parler","v":"Master of works from 1356, aged 23"},
+    {"k":"Net vault","v":"The first in Europe"},
+    {"k":"Completed","v":"1929"},
+    {"k":"Length","v":"124 m; tower 96.5 m"},
+    {"k":"Wenceslas Chapel","v":"Over 1,300 semi-precious stones"}
+  ],
+  "look": [
+    "Parler's net vault, running the length of the choir in one lattice",
+    "Free-standing ribs floating below the vault of the south porch",
+    "The triforium gallery of portrait busts — including both architects",
+    "Wenceslas Chapel, its walls set with jasper and amethyst"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/St._Vitus_Cathedral"
+},
+
+"seville": {
+  "name": "Seville Cathedral",
+  "place": "Seville, Spain",
+  "dates": "1401 — 1506",
+  "style": "Gothic, on a mosque",
+  "tagline": "\"Let us build a church so large that those who see it finished will think us mad.\" They built it on the mosque, and kept the minaret.",
+  "history": [
+    "Seville was Almohad before it was Castilian, and its great mosque of 1172 stood where the cathedral stands. After the city fell in 1248 the mosque served as the cathedral for a century and a half, until the chapter decided in 1401 to replace it entirely. The line quoted about being thought mad comes from the chapter's own tradition.",
+    "It was finished in barely a century — extraordinary for a building of this size — and then, in 1511, the crossing dome collapsed. It was rebuilt, and collapsed again in 1888 after an earthquake. Both times they simply rebuilt it.",
+    "The mosque left two things behind. The courtyard of ablutions survives as the Patio de los Naranjos, still planted with orange trees and still holding its irrigation channels. And the minaret of 1184 survives as the bell tower — the Giralda — with a Renaissance belfry stacked on top of it in the 1560s and a weathervane figure of Faith that gives it its name."
+  ],
+  "architecture": [
+    "By volume it is the largest Gothic church in the world. Five aisles, the central vessel 42 metres high, over a footprint inherited from the mosque, which is why the plan is a broad rectangle rather than the long cross of a French cathedral. The proportions are consequently strange and magnificent: enormously wide, and lit from above like a hall.",
+    "The high altar carries the largest altarpiece in the world: forty-five carved and gilded scenes from the life of Christ, begun by the Flemish sculptor Pierre Dancart in 1482 and worked on for eighty years. It covers about 300 square metres of gilded wood.",
+    "The Giralda is the clearest architectural sentence in the building. Climb it and there are no stairs — thirty-five ramps, wide enough that the muezzin could ride a horse to the top. Its brickwork carries the interlaced <i>sebka</i> panelling of Almohad North Africa; the Christian belfry above it repeats the same rhythms in Renaissance vocabulary. Two cultures, one tower, no seam that fails."
+  ],
+  "facts": [
+    {"k":"Built","v":"1401 — 1506, on the Almohad mosque"},
+    {"k":"Size","v":"Largest Gothic church by volume"},
+    {"k":"Central vault","v":"42 m"},
+    {"k":"Altarpiece","v":"About 300 m², 45 scenes, begun 1482"},
+    {"k":"Giralda","v":"Minaret of 1184; belfry added 1568"},
+    {"k":"Status","v":"UNESCO World Heritage, 1987"}
+  ],
+  "look": [
+    "The mosque's footprint dictating a wide, hall-like Gothic plan",
+    "The Giralda's 35 ramps — built to be ridden, not climbed",
+    "Almohad sebka brickwork below, Renaissance belfry above",
+    "The Patio de los Naranjos, the mosque's ablution court, still watered"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Seville_Cathedral"
+},
+
+"batalha": {
+  "name": "Batalha Monastery",
+  "place": "Batalha, Portugal",
+  "dates": "1386 — 1517",
+  "style": "Flamboyant Gothic and Manueline",
+  "tagline": "A victory church whose most famous room is the one they never roofed — the Unfinished Chapels, open to the sky for five hundred years.",
+  "history": [
+    "King John I of Portugal vowed a monastery to the Virgin if he won at Aljubarrota in 1385, where a heavily outnumbered Portuguese force destroyed a Castilian army and secured Portugal's independence for the next two centuries. Building began the following year and continued for 130 years under seven kings and fifteen architects.",
+    "It became the royal pantheon. In the Founder's Chapel, John I lies hand in hand with Philippa of Lancaster, his English queen — the first double royal tomb in Portugal — with their sons around them, including Henry the Navigator.",
+    "Work stopped in the 1530s when the crown's attention and money moved to the Jerónimos monastery in Lisbon. What was left behind is the octagonal mausoleum east of the church, its walls and portal complete to a great height, its vault never built. The Unfinished Chapels have stood open to the Portuguese sky ever since."
+  ],
+  "architecture": [
+    "The church is unusually pure Gothic for Iberia — English influence came with Philippa's masons, and the proportions are tall and narrow, the tracery Flamboyant, the limestone a warm ochre that goes gold at the end of the day.",
+    "The Founder's Chapel is a square room with an octagonal lantern set inside it on eight piers, an arrangement borrowed from English chapter houses. Light drops from the lantern directly onto the tombs below.",
+    "The Manueline work is what makes Batalha singular. Manueline is Portugal's own late-Gothic dialect, developed at the moment the country was opening the sea routes to India, and its ornament comes straight off ships and shores: cables, ropes, knots, anchors, coral, artichokes, armillary spheres. The portal of the Unfinished Chapels, carved by Mateus Fernandes around 1509, is fifteen metres of stone rope and vegetation with the motto <i>Leal a bem serei</i> cut repeatedly into the mouldings. The great cloister's screens by Diogo Boitac turn each Gothic arch into a lace panel of the same maritime vocabulary."
+  ],
+  "facts": [
+    {"k":"Begun","v":"1386, after the battle of Aljubarrota"},
+    {"k":"Architects","v":"Fifteen, across 130 years"},
+    {"k":"Founder's Chapel","v":"First royal double tomb in Portugal"},
+    {"k":"Unfinished Chapels","v":"Octagonal mausoleum, never vaulted"},
+    {"k":"Manueline portal","v":"Mateus Fernandes, c. 1509, about 15 m high"},
+    {"k":"Status","v":"UNESCO World Heritage, 1983"}
+  ],
+  "look": [
+    "The Unfinished Chapels — a mausoleum open to the weather since 1533",
+    "Manueline ornament: ropes, knots, coral and armillary spheres",
+    "Boitac's cloister tracery, turning arches into carved lace",
+    "John I and Philippa of Lancaster, hand in hand on their tomb"
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Batalha_Monastery"
+}
+}
