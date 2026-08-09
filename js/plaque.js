@@ -77,7 +77,9 @@ function render(w) {
   gal.querySelectorAll('.shot').forEach(f =>
     f.addEventListener('click', () => showLB(+f.dataset.i)));
 
-  const paras = a => (a || []).map(p => `<p>${esc(p)}</p>`).join('');
+  // escape everything, then re-admit the one tag the copy uses (italics)
+  const paras = a => (a || []).map(p =>
+    `<p>${esc(p).replace(/&lt;(\/?)i&gt;/g, '<$1i>')}</p>`).join('');
   root.querySelector('.plaque__body').innerHTML = `
     <section class="col">
       <h2><span>I</span>The Building</h2>
