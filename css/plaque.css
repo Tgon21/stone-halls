@@ -122,7 +122,11 @@
   font-weight: 500;
 }
 
-/* where it stands */
+/* where it stands — standalone block between the head and the gallery */
+.plaque__geoslot .plaque__geo { padding: 34px 56px 4px; }
+@media (max-width: 720px) {
+  .plaque__geoslot .plaque__geo { padding: 26px 22px 0; }
+}
 .geo__tabs {
   display: flex; align-items: center; gap: 6px; margin-bottom: 10px;
 }

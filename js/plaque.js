@@ -24,6 +24,7 @@ function ensure() {
       </button>
       <div class="plaque__scroll">
         <header class="plaque__head"></header>
+        <div class="plaque__geoslot"></div>
         <div class="plaque__gallery"></div>
         <div class="plaque__body"></div>
       </div>
@@ -78,6 +79,23 @@ function render(w) {
     f.addEventListener('click', () => showLB(+f.dataset.i)));
 
   // escape everything, then re-admit the one tag the copy uses (italics)
+  // stand there first: street view above the pictures
+  root.querySelector('.plaque__geoslot').innerHTML = w.geo ? `
+    <section class="col plaque__geo">
+      <h2>Where It Stands</h2>
+      <nav class="geo__tabs" role="tablist">
+        <button class="geo__tab on" data-view="sv">Street view</button>
+        <button class="geo__tab" data-view="sat">Satellite</button>
+        <button class="geo__tab" data-view="map">Map</button>
+        <a class="geo__open" target="_blank" rel="noopener"
+           href="https://www.google.com/maps/search/?api=1&query=${w.geo.lat},${w.geo.lng}">
+           Open in Google Maps ↗</a>
+      </nav>
+      <div class="geo__pane" data-lat="${w.geo.lat}" data-lng="${w.geo.lng}"></div>
+      <p class="geo__hint">Drag to look around and walk the streets outside ${esc(w.name)} —
+         or switch to the satellite pin.</p>
+    </section>` : '';
+
   const paras = a => (a || []).map(p =>
     `<p>${esc(p).replace(/&lt;(\/?)i&gt;/g, '<$1i>')}</p>`).join('');
   root.querySelector('.plaque__body').innerHTML = `
@@ -89,21 +107,6 @@ function render(w) {
       <h2><span>II</span>The Architecture</h2>
       ${paras(w.architecture)}
     </section>
-    ${w.geo ? `
-    <section class="col plaque__geo">
-      <h2><span>III</span>Where It Stands</h2>
-      <nav class="geo__tabs" role="tablist">
-        <button class="geo__tab on" data-view="sat">Satellite</button>
-        <button class="geo__tab" data-view="map">Map</button>
-        <button class="geo__tab" data-view="sv">Street view</button>
-        <a class="geo__open" target="_blank" rel="noopener"
-           href="https://www.google.com/maps/search/?api=1&query=${w.geo.lat},${w.geo.lng}">
-           Open in Google Maps ↗</a>
-      </nav>
-      <div class="geo__pane" data-lat="${w.geo.lat}" data-lng="${w.geo.lng}"></div>
-      <p class="geo__hint">Drop into street view and walk around the outside — or drag the map;
-         the pin marks ${esc(w.name)}.</p>
-    </section>` : ''}
     <aside class="facts">
       <h3>In figures</h3>
       <dl>${(w.facts || []).map(f => `<dt>${esc(f.k)}</dt><dd>${esc(f.v)}</dd>`).join('')}</dl>
@@ -160,7 +163,7 @@ function wireGeo() {
   }));
   // don't touch the network until the reader reaches the section
   new IntersectionObserver((es, ob) => {
-    if (es.some(e => e.isIntersecting)) { loadGeo(pane, 'sat'); ob.disconnect(); }
+    if (es.some(e => e.isIntersecting)) { loadGeo(pane, 'sv'); ob.disconnect(); }
   }, { root: root.querySelector('.plaque__scroll'), rootMargin: '200px' }).observe(pane);
 }
 
